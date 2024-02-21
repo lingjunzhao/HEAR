@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>My experiment</title>
+    <script src="https://unpkg.com/jspsych@7.1.2"></script>
+    <script src="https://unpkg.com/@jspsych/plugin-html-keyboard-response@1.1.0"></script>
+    <link href="https://unpkg.com/jspsych@7.1.2/css/jspsych.css" rel="stylesheet" type="text/css" />
+    <link rel="stylesheet" href="https://unpkg.com/@jspsych/plugin-survey@0.1.1/css/survey.css">
+  </head>
+  <body></body>
+  <script>
+    const jsPsych = initJsPsych();
+
+    const hello_trial = {
+      type: jsPsychHtmlKeyboardResponse,
+      stimulus: 'Hello world!'
+    }
+
+
+    var trial = {
+  type: jsPsychSurvey,
+  pages: [
+    [
+      {
+        type: 'html',
+        prompt: 'Please answer the following questions:',
+      },
+      {
+        type: 'multi-choice',
+        prompt: "Which of the following do you like the most?", 
+        name: 'VegetablesLike', 
+        options: ['Tomato', 'Cucumber', 'Eggplant', 'Corn', 'Peas'], 
+        required: true
+      }, 
+      {
+        type: 'multi-select',
+        prompt: "Which of the following do you like?", 
+        name: 'FruitLike', 
+        options: ['Apple', 'Banana', 'Orange', 'Grape', 'Strawberry'], 
+        required: false,
+      }
+    ]
+  ],
+};
+  </script>
+</html>

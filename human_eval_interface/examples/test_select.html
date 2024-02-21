@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <style>
+    /* Add some basic styling */
+    .select-container {
+      margin-bottom: 20px;
+    }
+
+    .select-label {
+      display: block;
+      margin-bottom: 5px;
+    }
+
+    .select-dropdown {
+      padding: 5px;
+      font-size: 16px;
+    }
+  </style>
+</head>
+<body>
+
+<!-- First select element -->
+<div class="select-container">
+  <label class="select-label">Select Color 1:</label>
+  <select id="select1" class="select-dropdown">
+    <option value="red">Red</option>
+    <option value="yellow" selected="selected">Yellow</option>
+    <option value="N/A">[None of above]</option>
+  </select>
+</div>
+
+<!-- Second select element -->
+<div class="select-container">
+  <label class="select-label">Select Color 2:</label>
+  <select id="select2" class="select-dropdown">
+    <option value="green">Green</option>
+    <option value="blue">Blue</option>
+    <option value="N/A" selected="selected">[None of above]</option>
+  </select>
+</div>
+
+<script>
+  document.addEventListener('DOMContentLoaded', function () {
+    function customizeSelect(id) {
+      const selectElement = document.getElementById(id);
+      let initialSelection = selectElement.value;
+
+      // Add an event listener for when the dropdown is opened
+      selectElement.addEventListener('focus', function () {
+        // Iterate through the options and add (*) to the initially selected option
+        for (let i = 0; i < selectElement.options.length; i++) {
+          const option = selectElement.options[i];
+          if (option.value === initialSelection) {
+            option.text = option.value + ' (*)';
+          } else {
+            option.text = option.value;
+          }
+        }
+      });
+
+      // Add an event listener for when the dropdown is closed
+      selectElement.addEventListener('blur', function () {
+        // Iterate through the options and remove (*) from all options
+        for (let i = 0; i < selectElement.options.length; i++) {
+          const option = selectElement.options[i];
+          option.text = option.value;
+        }
+      });
+    }
+
+    // Customize each select element on the page
+    customizeSelect('select1');
+    customizeSelect('select2');
+    // Add more customizeSelect calls for additional select elements as needed
+  });
+</script>
+
+</body>
+</html>
