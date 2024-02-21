@@ -71,21 +71,21 @@ http://localhost:8888/examples/follower_plugin_highlight_suggestion.html?id=3236
 After clicking `submit` button, the file would be saved to `uploads/${id}_snapshots_v1.json`.
 
 
-4. Examples
+### Examples
 
-1) Showing highlights and correction suggestions (used in HEAR and Oracle)
+(a) Showing highlights and correction suggestions (used in HEAR and Oracle)
 
 ```bash
 http://localhost:8888/examples/follower_plugin_highlight_suggestion.html?id=32360
 ```
 
-2) Showing highlights, without correction suggestion (used in HEAR (no suggestion) and Oracle (no suggestion))
+(b) Showing highlights, without correction suggestion (used in HEAR (no suggestion) and Oracle (no suggestion))
 
 ```bash
 http://localhost:8888/examples/follower_plugin_highlight_only.html?id=32378
 ```
 
-3) No communication
+(c) No communication
 
 ```bash
 http://localhost:8888/examples/follower_plugin_no_communication.html?id=32396
