@@ -18,7 +18,7 @@ pip install -r requirements.txt
 ```
 
 ### 🐾 Train and Validation Dataset Link
-Finally, download the trajectory dataset from [this link](TODO), 
+Finally, download the synthetic training dataset from [this link](https://drive.google.com/file/d/1VGII-nJwC-UhZrd7afqGCitr4rLQDbMT/view?usp=sharing), 
 unzip the file, 
 and put the json files inside `cal_data/` folder.
 
