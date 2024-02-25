@@ -60,7 +60,6 @@
             "60009bb5fef8452c9201cdd82b0b15cd"
           ],
           "filename": "32014_snapshots_v1.jsonl",
-          "annotator": "AOOU57BC3GK9J",
           "corrected_values": [
             "turn right"
           ],
@@ -99,7 +98,6 @@
             "123fc12f2d1d4c3ab9b41db86d3df71a"
           ],
           "filename": "32086_snapshots_v3.jsonl",
-          "annotator": "A2JT93NK7GU6LD",
           "corrected_values": [
             "turn right"
           ],
@@ -144,7 +142,6 @@
             "eca64f51a1ea43619f0b623c2095964c"
           ],
           "filename": "32194_snapshots_v1.jsonl",
-          "annotator": "A1YT6E0W0SDP0R",
           "corrected_values": [
             "turn right"
           ],
@@ -172,7 +169,6 @@
             "eca64f51a1ea43619f0b623c2095964c"
           ],
           "filename": "32284_snapshots_v1.jsonl",
-          "annotator": "A2Y69684WT44XU",
           "corrected_values": [
             "turn right"
           ],
@@ -217,7 +213,6 @@
             "9d9c29287e4849b99c4b3472163ecee2"
           ],
           "filename": "32374_snapshots_v1.jsonl",
-          "annotator": "A35BJZCQC3ETPX",
           "corrected_values": [
             "turn right"
           ],
@@ -382,7 +377,6 @@
             "ed79b51efdac434cb12bcd3d5e7fd112"
           ],
           "filename": "32000_snapshots_v8.jsonl",
-          "annotator": "A2YTO4EY3MNYAJ",
           "corrected_values": [
             "up",
             "step",
@@ -417,7 +411,6 @@
             "ed79b51efdac434cb12bcd3d5e7fd112"
           ],
           "filename": "32072_snapshots_v1.jsonl",
-          "annotator": "A3JFJ097TNLCHC",
           "corrected_values": [
             "down",
             "stair handrail",
@@ -443,7 +436,6 @@
             "ed79b51efdac434cb12bcd3d5e7fd112"
           ],
           "filename": "32180_snapshots_v7.jsonl",
-          "annotator": "A3S9F89T3KKO1R",
           "corrected_values": [
             "down",
             "step",
@@ -478,7 +470,6 @@
             "ed79b51efdac434cb12bcd3d5e7fd112"
           ],
           "filename": "32270_snapshots_v2.jsonl",
-          "annotator": "A2WU7JJ3J0CVD",
           "corrected_values": [
             "down",
             "step",
@@ -502,7 +493,6 @@
             "ed79b51efdac434cb12bcd3d5e7fd112"
           ],
           "filename": "32360_snapshots_v2.jsonl",
-          "annotator": "A25KK5NDFRX4EC",
           "corrected_values": [
             "down",
             "step",
@@ -633,7 +623,6 @@
             "871249bea9924fdba9937759ff5a22f4"
           ],
           "filename": "32001_snapshots_v7.jsonl",
-          "annotator": "A2YTO4EY3MNYAJ",
           "corrected_values": [
             "[None of above]"
           ],
@@ -659,7 +648,6 @@
             "4ab5217c7908473c807f873ebd3a5ff1"
           ],
           "filename": "32073_snapshots_v1.jsonl",
-          "annotator": "A3JFJ097TNLCHC",
           "corrected_values": [
             "in front of"
           ],
@@ -678,7 +666,6 @@
             "387707c22d4447f4b8ceff7a4ae26c46"
           ],
           "filename": "32181_snapshots_v6.jsonl",
-          "annotator": "A3S9F89T3KKO1R",
           "corrected_values": [
             "in front of"
           ],
@@ -707,7 +694,6 @@
             "c1dff12edb1e4cb0a1f5bc3b356dd4e2"
           ],
           "filename": "32271_snapshots_v2.jsonl",
-          "annotator": "A2WU7JJ3J0CVD",
           "corrected_values": [
             "in front of"
           ],
@@ -734,7 +720,6 @@
             "387707c22d4447f4b8ceff7a4ae26c46"
           ],
           "filename": "32361_snapshots_v2.jsonl",
-          "annotator": "A25KK5NDFRX4EC",
           "corrected_values": [
             "in front of"
           ],
@@ -867,7 +852,6 @@
             "2b67ab047ee949538c9d5d89046d985f"
           ],
           "filename": "32002_snapshots_v6.jsonl",
-          "annotator": "A2YTO4EY3MNYAJ",
           "corrected_values": [
             "turn right",
             "first",
@@ -912,7 +896,6 @@
             "4ed50a2f86384de599f06df862d17b10"
           ],
           "filename": "32074_snapshots_v1.jsonl",
-          "annotator": "A3JFJ097TNLCHC",
           "corrected_values": [
             "turn right",
             "first",
@@ -936,7 +919,6 @@
             "2b67ab047ee949538c9d5d89046d985f"
           ],
           "filename": "32182_snapshots_v4.jsonl",
-          "annotator": "A3S9F89T3KKO1R",
           "corrected_values": [
             "turn right",
             "first",
@@ -958,7 +940,6 @@
             "f41c2851f4b241fcad3f8f15378da53b"
           ],
           "filename": "32272_snapshots_v3.jsonl",
-          "annotator": "A2WU7JJ3J0CVD",
           "corrected_values": [
             "turn right",
             "first",
@@ -979,7 +960,6 @@
             "4ed50a2f86384de599f06df862d17b10"
           ],
           "filename": "32362_snapshots_v2.jsonl",
-          "annotator": "A25KK5NDFRX4EC",
           "corrected_values": [
             "turn right",
             "first",
@@ -1105,7 +1085,6 @@
             "bf454a84e687425db55a946493d2ba72"
           ],
           "filename": "32003_snapshots_v6.jsonl",
-          "annotator": "A2YTO4EY3MNYAJ",
           "corrected_values": [
             "turn left"
           ],
@@ -1134,7 +1113,6 @@
             "99dc41ba4676449d8fc37890a38ad9e3"
           ],
           "filename": "32075_snapshots_v1.jsonl",
-          "annotator": "A3JFJ097TNLCHC",
           "corrected_values": [
             "turn left"
           ],
@@ -1190,7 +1168,6 @@
             "99dc41ba4676449d8fc37890a38ad9e3"
           ],
           "filename": "32183_snapshots_v5.jsonl",
-          "annotator": "A3S9F89T3KKO1R",
           "corrected_values": [
             "turn left"
           ],
@@ -1211,7 +1188,6 @@
             "d5183baffb764292a1ce414243f30ef6"
           ],
           "filename": "32273_snapshots_v3.jsonl",
-          "annotator": "A2WU7JJ3J0CVD",
           "corrected_values": [
             "turn left"
           ],
@@ -1232,7 +1208,6 @@
             "d5183baffb764292a1ce414243f30ef6"
           ],
           "filename": "32363_snapshots_v2.jsonl",
-          "annotator": "A25KK5NDFRX4EC",
           "corrected_values": [
             "turn left"
           ],
@@ -1360,7 +1335,6 @@
             "a59713eed44e47cca397462601c4d960"
           ],
           "filename": "32004_snapshots_v6.jsonl",
-          "annotator": "A2YTO4EY3MNYAJ",
           "corrected_values": [
             "turn left"
           ],
@@ -1438,7 +1412,6 @@
             "7c9f57c094654e9a9cb27ae4a2f7fa0b"
           ],
           "filename": "32076_snapshots_v1.jsonl",
-          "annotator": "A3JFJ097TNLCHC",
           "corrected_values": [
             "turn around"
           ],
@@ -1466,7 +1439,6 @@
             "a59713eed44e47cca397462601c4d960"
           ],
           "filename": "32184_snapshots_v4.jsonl",
-          "annotator": "A3S9F89T3KKO1R",
           "corrected_values": [
             "turn left"
           ],
@@ -1501,7 +1473,6 @@
             "7c9f57c094654e9a9cb27ae4a2f7fa0b"
           ],
           "filename": "32274_snapshots_v2.jsonl",
-          "annotator": "A2WU7JJ3J0CVD",
           "corrected_values": [
             "turn left"
           ],
@@ -1546,7 +1517,6 @@
             "c746fb38d1ca4490a094a97e32d14af2"
           ],
           "filename": "32364_snapshots_v2.jsonl",
-          "annotator": "A25KK5NDFRX4EC",
           "corrected_values": [
             "turn right"
           ],
@@ -1684,7 +1654,6 @@
             "20216703be7341b89b57ea2165e6a9bb"
           ],
           "filename": "32005_snapshots_v6.jsonl",
-          "annotator": "A2YTO4EY3MNYAJ",
           "corrected_values": [
             "go straight"
           ],
@@ -1733,7 +1702,6 @@
             "ccabfad5dfcd47cd821e57a15a58d55c"
           ],
           "filename": "32077_snapshots_v1.jsonl",
-          "annotator": "A3JFJ097TNLCHC",
           "corrected_values": [
             "turn right"
           ],
@@ -1760,7 +1728,6 @@
             "ccabfad5dfcd47cd821e57a15a58d55c"
           ],
           "filename": "32185_snapshots_v4.jsonl",
-          "annotator": "A3S9F89T3KKO1R",
           "corrected_values": [
             "turn right"
           ],
@@ -1790,7 +1757,6 @@
             "ccabfad5dfcd47cd821e57a15a58d55c"
           ],
           "filename": "32275_snapshots_v4.jsonl",
-          "annotator": "A2WU7JJ3J0CVD",
           "corrected_values": [
             "turn right"
           ],
@@ -1834,7 +1800,6 @@
             "d0fd62a0342b4cf1ba722c39aca257ce"
           ],
           "filename": "32365_snapshots_v2.jsonl",
-          "annotator": "A25KK5NDFRX4EC",
           "corrected_values": [
             "[None of above]"
           ],
@@ -1957,7 +1922,6 @@
             "5a57fb3d78084b48a7c31e681b7bdf0e"
           ],
           "filename": "32006_snapshots_v8.jsonl",
-          "annotator": "A3VMDXMF9UWF92",
           "corrected_values": [
             "and out the door on the right ."
           ],
@@ -1974,7 +1938,6 @@
             "5edc5a5dae1c427f95ac930e3bf68700"
           ],
           "filename": "32078_snapshots_v5.jsonl",
-          "annotator": "A34ZJFQ9UCP1CR",
           "corrected_values": [
             "and out the door on the right ."
           ],
@@ -2053,7 +2016,6 @@
             "bcf3463301624f4dba2b47c485dc9d25"
           ],
           "filename": "32186_snapshots_v9.jsonl",
-          "annotator": "A301Y0VHQ1NZA1",
           "corrected_values": [
             "[DELETED]"
           ],
@@ -2075,7 +2037,6 @@
             "5a57fb3d78084b48a7c31e681b7bdf0e"
           ],
           "filename": "32276_snapshots_v1.jsonl",
-          "annotator": "A27C5W2X55X1SH",
           "corrected_values": [
             "and out the door on the right ."
           ],
@@ -2103,7 +2064,6 @@
             "de87e9646a654e1e8f4e96593a3adbc3"
           ],
           "filename": "32366_snapshots_v6.jsonl",
-          "annotator": "A2IR98189B0N42",
           "corrected_values": [
             "and out the door on the right ."
           ],
@@ -2243,7 +2203,6 @@
             "1a3116dfd5b24accafbed175eeb376d9"
           ],
           "filename": "32007_snapshots_v4.jsonl",
-          "annotator": "A3VMDXMF9UWF92",
           "corrected_values": [
             "walk into the hallway",
             "bathroom"
@@ -2278,7 +2237,6 @@
             "328ef7c3d2ed4da7a2e2af2f27735c10"
           ],
           "filename": "32079_snapshots_v3.jsonl",
-          "annotator": "A34ZJFQ9UCP1CR",
           "corrected_values": [
             "walk into the hallway",
             "bathroom"
@@ -2318,7 +2276,6 @@
             "1a3116dfd5b24accafbed175eeb376d9"
           ],
           "filename": "32187_snapshots_v7.jsonl",
-          "annotator": "A301Y0VHQ1NZA1",
           "corrected_values": [
             "[DELETED]",
             "bathroom"
@@ -2338,7 +2295,6 @@
             "b419f6ecc3f24120afbb65d25efcb444"
           ],
           "filename": "32277_snapshots_v3.jsonl",
-          "annotator": "A27C5W2X55X1SH",
           "corrected_values": [
             "walk into the hallway",
             "bathroom"
@@ -2358,7 +2314,6 @@
             "328ef7c3d2ed4da7a2e2af2f27735c10"
           ],
           "filename": "32367_snapshots_v4.jsonl",
-          "annotator": "A2IR98189B0N42",
           "corrected_values": [
             "walk into the hallway",
             "bathroom"
@@ -2490,7 +2445,6 @@
             "18c0ac60e26743069f802efc18a334e1"
           ],
           "filename": "32008_snapshots_v4.jsonl",
-          "annotator": "A3VMDXMF9UWF92",
           "corrected_values": [
             "turn right"
           ],
@@ -2507,7 +2461,6 @@
             "02253cded39e4f26a34c483d645ebcb7"
           ],
           "filename": "32080_snapshots_v3.jsonl",
-          "annotator": "A34ZJFQ9UCP1CR",
           "corrected_values": [
             "turn right"
           ],
@@ -2524,7 +2477,6 @@
             "ec0421cc61c64f6f8692d327d6838fd5"
           ],
           "filename": "32188_snapshots_v7.jsonl",
-          "annotator": "A301Y0VHQ1NZA1",
           "corrected_values": [
             "[DELETED]"
           ],
@@ -2541,7 +2493,6 @@
             "02253cded39e4f26a34c483d645ebcb7"
           ],
           "filename": "32278_snapshots_v2.jsonl",
-          "annotator": "A27C5W2X55X1SH",
           "corrected_values": [
             "turn right"
           ],
@@ -2561,7 +2512,6 @@
             "e3b1895ff0cb41b19be7fb13aa4e8d9a"
           ],
           "filename": "32368_snapshots_v4.jsonl",
-          "annotator": "A2IR98189B0N42",
           "corrected_values": [
             "turn right"
           ],
@@ -2718,7 +2668,6 @@
             "13c191f506114c73b70830b89e195aa6"
           ],
           "filename": "32009_snapshots_v3.jsonl",
-          "annotator": "A3VMDXMF9UWF92",
           "corrected_values": [
             "turn left",
             "into",
@@ -2748,7 +2697,6 @@
             "5218b81977034823899188bbcef96257"
           ],
           "filename": "32081_snapshots_v3.jsonl",
-          "annotator": "A34ZJFQ9UCP1CR",
           "corrected_values": [
             "turn left",
             "into",
@@ -2776,7 +2724,6 @@
             "d52aaea9fc6e4d5fbecd0220eb9da436"
           ],
           "filename": "32189_snapshots_v7.jsonl",
-          "annotator": "A301Y0VHQ1NZA1",
           "corrected_values": [
             "turn left",
             "into",
@@ -2795,7 +2742,6 @@
             "3ba76deab6be444c8b21652763d82795"
           ],
           "filename": "32279_snapshots_v1.jsonl",
-          "annotator": "A27C5W2X55X1SH",
           "corrected_values": [
             "turn left",
             "into",
@@ -2861,7 +2807,6 @@
             "d52aaea9fc6e4d5fbecd0220eb9da436"
           ],
           "filename": "32369_snapshots_v3.jsonl",
-          "annotator": "A2IR98189B0N42",
           "corrected_values": [
             "turn left",
             "pass",
@@ -3007,7 +2952,6 @@
             "a62a0607fae3496d9018dc74a561be64"
           ],
           "filename": "32010_snapshots_v3.jsonl",
-          "annotator": "A3VMDXMF9UWF92",
           "corrected_values": [
             "exit",
             "on the right",
@@ -3044,7 +2988,6 @@
             "91735b09a0a14b168c3a12913e9d4127"
           ],
           "filename": "32082_snapshots_v3.jsonl",
-          "annotator": "A34ZJFQ9UCP1CR",
           "corrected_values": [
             "exit",
             "on the right",
@@ -3071,7 +3014,6 @@
             "91735b09a0a14b168c3a12913e9d4127"
           ],
           "filename": "32190_snapshots_v7.jsonl",
-          "annotator": "A301Y0VHQ1NZA1",
           "corrected_values": [
             "exit",
             "on the right",
@@ -3094,7 +3036,6 @@
             "4ad533e309ca4c61856c953afb7876b6"
           ],
           "filename": "32280_snapshots_v2.jsonl",
-          "annotator": "A27C5W2X55X1SH",
           "corrected_values": [
             "exit",
             "on the right",
@@ -3124,7 +3065,6 @@
             "4ad533e309ca4c61856c953afb7876b6"
           ],
           "filename": "32370_snapshots_v3.jsonl",
-          "annotator": "A2IR98189B0N42",
           "corrected_values": [
             "exit",
             "on the right",
@@ -3264,7 +3204,6 @@
             "e87821ffeea84cbd91ec089a6ba66862"
           ],
           "filename": "32011_snapshots_v3.jsonl",
-          "annotator": "A3VMDXMF9UWF92",
           "corrected_values": [
             "walk forward",
             "turn right",
@@ -3285,7 +3224,6 @@
             "13a8c23dab5b473fa8d449a126b949be"
           ],
           "filename": "32083_snapshots_v3.jsonl",
-          "annotator": "A34ZJFQ9UCP1CR",
           "corrected_values": [
             "walk forward",
             "turn right",
@@ -3376,7 +3314,6 @@
             "c637b66b6f804617962f0f9e2f2c0341"
           ],
           "filename": "32191_snapshots_v7.jsonl",
-          "annotator": "A301Y0VHQ1NZA1",
           "corrected_values": [
             "walk forward",
             "turn left",
@@ -3399,7 +3336,6 @@
             "9231543c6c484c939a501338ad8c1db4"
           ],
           "filename": "32281_snapshots_v1.jsonl",
-          "annotator": "A27C5W2X55X1SH",
           "corrected_values": [
             "walk forward",
             "turn right",
@@ -3458,7 +3394,6 @@
             "778fcb7553fe4322a49ddc62554ce081"
           ],
           "filename": "32371_snapshots_v4.jsonl",
-          "annotator": "A2IR98189B0N42",
           "corrected_values": [
             "walk forward",
             "turn right",
@@ -3587,7 +3522,6 @@
             "3d11e46400a14c6cbc0ae42a5057ae97"
           ],
           "filename": "32012_snapshots_v1.jsonl",
-          "annotator": "A3IZUI16N8RFE6",
           "corrected_values": [
             "walk to the right"
           ],
@@ -3617,7 +3551,6 @@
             "78ad6e43879c433ea88417b72e61c80f"
           ],
           "filename": "32084_snapshots_v4.jsonl",
-          "annotator": "A2JT93NK7GU6LD",
           "corrected_values": [
             "walk to the right"
           ],
@@ -3642,7 +3575,6 @@
             "78ad6e43879c433ea88417b72e61c80f"
           ],
           "filename": "32192_snapshots_v1.jsonl",
-          "annotator": "A1YT6E0W0SDP0R",
           "corrected_values": [
             "walk to the left"
           ],
@@ -3669,7 +3601,6 @@
             "78ad6e43879c433ea88417b72e61c80f"
           ],
           "filename": "32282_snapshots_v1.jsonl",
-          "annotator": "A2Y69684WT44XU",
           "corrected_values": [
             "walk straight ahead"
           ],
@@ -3687,7 +3618,6 @@
             "78ad6e43879c433ea88417b72e61c80f"
           ],
           "filename": "32372_snapshots_v1.jsonl",
-          "annotator": "A35BJZCQC3ETPX",
           "corrected_values": [
             "walk to the left"
           ],
@@ -3828,7 +3758,6 @@
             "9ae0313ede6e4c14880dc0bdcdca3bb9"
           ],
           "filename": "32013_snapshots_v1.jsonl",
-          "annotator": "A3IZUI16N8RFE6",
           "corrected_values": [
             "stairs",
             "take a right",
@@ -3851,7 +3780,6 @@
             "6a99c723d40b429e96a29c8ce7532d1d"
           ],
           "filename": "32085_snapshots_v4.jsonl",
-          "annotator": "A2JT93NK7GU6LD",
           "corrected_values": [
             "hallway",
             "take a right",
@@ -3890,7 +3818,6 @@
             "f8acfc899a4c49ddad71fdfcfd899b2f"
           ],
           "filename": "32193_snapshots_v1.jsonl",
-          "annotator": "A1YT6E0W0SDP0R",
           "corrected_values": [
             "hallway",
             "take a right",
@@ -3916,7 +3843,6 @@
             "15a194390fdd47f9a0afd6753a0ba588"
           ],
           "filename": "32283_snapshots_v1.jsonl",
-          "annotator": "A2Y69684WT44XU",
           "corrected_values": [
             "hallway",
             "take a right",
@@ -4005,7 +3931,6 @@
             "6a99c723d40b429e96a29c8ce7532d1d"
           ],
           "filename": "32373_snapshots_v1.jsonl",
-          "annotator": "A35BJZCQC3ETPX",
           "corrected_values": [
             "stairs",
             "take a right",
@@ -4132,7 +4057,6 @@
             "b2f2e0367c764b9b8b236ff6fe73f19c"
           ],
           "filename": "32015_snapshots_v1.jsonl",
-          "annotator": "A3IZUI16N8RFE6",
           "corrected_values": [
             "turn left"
           ],
@@ -4170,7 +4094,6 @@
             "5923f6d03fd04d8e8c8d7a9ac4be821a"
           ],
           "filename": "32087_snapshots_v3.jsonl",
-          "annotator": "A2JT93NK7GU6LD",
           "corrected_values": [
             "turn right"
           ],
@@ -4208,7 +4131,6 @@
             "e428c761024a458e8b052494cf6249f5"
           ],
           "filename": "32195_snapshots_v1.jsonl",
-          "annotator": "A1YT6E0W0SDP0R",
           "corrected_values": [
             "[None of above]"
           ],
@@ -4226,7 +4148,6 @@
             "b2f2e0367c764b9b8b236ff6fe73f19c"
           ],
           "filename": "32285_snapshots_v1.jsonl",
-          "annotator": "A2Y69684WT44XU",
           "corrected_values": [
             "turn left"
           ],
@@ -4250,7 +4171,6 @@
             "e428c761024a458e8b052494cf6249f5"
           ],
           "filename": "32375_snapshots_v1.jsonl",
-          "annotator": "A35BJZCQC3ETPX",
           "corrected_values": [
             "turn left"
           ],
@@ -4387,7 +4307,6 @@
             "5125c4a0a99f45788e694d5a73ba99c7"
           ],
           "filename": "32016_snapshots_v1.jsonl",
-          "annotator": "A3IZUI16N8RFE6",
           "corrected_values": [
             "couch",
             "top",
@@ -4408,7 +4327,6 @@
             "7cd02069ac1546319b95be27fc04d7b5"
           ],
           "filename": "32088_snapshots_v3.jsonl",
-          "annotator": "A2JT93NK7GU6LD",
           "corrected_values": [
             "couch",
             "top",
@@ -4427,7 +4345,6 @@
             "7cd02069ac1546319b95be27fc04d7b5"
           ],
           "filename": "32196_snapshots_v1.jsonl",
-          "annotator": "A1YT6E0W0SDP0R",
           "corrected_values": [
             "couch",
             "top",
@@ -4445,7 +4362,6 @@
             "7743b72f7c3d40749363873307eef9c9"
           ],
           "filename": "32286_snapshots_v1.jsonl",
-          "annotator": "A2Y69684WT44XU",
           "corrected_values": [
             "couch",
             "top",
@@ -4463,7 +4379,6 @@
             "7743b72f7c3d40749363873307eef9c9"
           ],
           "filename": "32376_snapshots_v1.jsonl",
-          "annotator": "A35BJZCQC3ETPX",
           "corrected_values": [
             "couch",
             "top",
@@ -4587,7 +4502,6 @@
             "5125c4a0a99f45788e694d5a73ba99c7"
           ],
           "filename": "32017_snapshots_v1.jsonl",
-          "annotator": "A3IZUI16N8RFE6",
           "corrected_values": [
             "on the left"
           ],
@@ -4606,7 +4520,6 @@
             "7cd02069ac1546319b95be27fc04d7b5"
           ],
           "filename": "32089_snapshots_v3.jsonl",
-          "annotator": "A2JT93NK7GU6LD",
           "corrected_values": [
             "on the left"
           ],
@@ -4623,7 +4536,6 @@
             "7cd02069ac1546319b95be27fc04d7b5"
           ],
           "filename": "32197_snapshots_v1.jsonl",
-          "annotator": "A1YT6E0W0SDP0R",
           "corrected_values": [
             "straight ahead"
           ],
@@ -4661,7 +4573,6 @@
             "b8d68745ab054a2da8a82de45fce8cef"
           ],
           "filename": "32287_snapshots_v1.jsonl",
-          "annotator": "A2Y69684WT44XU",
           "corrected_values": [
             "straight ahead"
           ],
@@ -4677,7 +4588,6 @@
             "7743b72f7c3d40749363873307eef9c9"
           ],
           "filename": "32377_snapshots_v1.jsonl",
-          "annotator": "A35BJZCQC3ETPX",
           "corrected_values": [
             "on the left"
           ],
@@ -4824,7 +4734,6 @@
             "ed79b51efdac434cb12bcd3d5e7fd112"
           ],
           "filename": "32018_snapshots_v3.jsonl",
-          "annotator": "A1HQGU5SA9UORE",
           "corrected_values": null,
           "checks": 1
         },
@@ -4849,7 +4758,6 @@
             "4a2b6fa66ac54acfbae98270236548a6"
           ],
           "filename": "32126_snapshots_v1.jsonl",
-          "annotator": "A1ILC3RA4OMUFE",
           "corrected_values": null,
           "checks": 5
         },
@@ -4883,7 +4791,6 @@
             "4a2b6fa66ac54acfbae98270236548a6"
           ],
           "filename": "32144_snapshots_v1.jsonl",
-          "annotator": "A1NPR51QJPWF8O",
           "corrected_values": null,
           "checks": 1
         },
@@ -4915,7 +4822,6 @@
             "4a2b6fa66ac54acfbae98270236548a6"
           ],
           "filename": "32288_snapshots_v1.jsonl",
-          "annotator": "A2MCG5W6LHSRG9",
           "corrected_values": null,
           "checks": 8
         },
@@ -4938,7 +4844,6 @@
             "ed79b51efdac434cb12bcd3d5e7fd112"
           ],
           "filename": "32378_snapshots_v2.jsonl",
-          "annotator": "AL3R9QOZFX5YK",
           "corrected_values": null,
           "checks": 1
         }
@@ -5060,7 +4965,6 @@
             "4ab5217c7908473c807f873ebd3a5ff1"
           ],
           "filename": "32019_snapshots_v3.jsonl",
-          "annotator": "A1HQGU5SA9UORE",
           "corrected_values": null,
           "checks": 2
         },
@@ -5085,7 +4989,6 @@
             "871249bea9924fdba9937759ff5a22f4"
           ],
           "filename": "32127_snapshots_v1.jsonl",
-          "annotator": "A1ILC3RA4OMUFE",
           "corrected_values": null,
           "checks": 3
         },
@@ -5110,7 +5013,6 @@
             "871249bea9924fdba9937759ff5a22f4"
           ],
           "filename": "32145_snapshots_v1.jsonl",
-          "annotator": "A1NPR51QJPWF8O",
           "corrected_values": null,
           "checks": 4
         },
@@ -5127,7 +5029,6 @@
             "871249bea9924fdba9937759ff5a22f4"
           ],
           "filename": "32289_snapshots_v1.jsonl",
-          "annotator": "A2MCG5W6LHSRG9",
           "corrected_values": null,
           "checks": 1
         },
@@ -5145,7 +5046,6 @@
             "387707c22d4447f4b8ceff7a4ae26c46"
           ],
           "filename": "32379_snapshots_v1.jsonl",
-          "annotator": "AL3R9QOZFX5YK",
           "corrected_values": null,
           "checks": 2
         }
@@ -5300,7 +5200,6 @@
             "e0a910e3d4374cf9811487e78a5447a4"
           ],
           "filename": "32020_snapshots_v2.jsonl",
-          "annotator": "A1HQGU5SA9UORE",
           "corrected_values": null,
           "checks": 12
         },
@@ -5327,7 +5226,6 @@
             "4ed50a2f86384de599f06df862d17b10"
           ],
           "filename": "32128_snapshots_v1.jsonl",
-          "annotator": "A1ILC3RA4OMUFE",
           "corrected_values": null,
           "checks": 1
         },
@@ -5380,7 +5278,6 @@
             "6ea742331ac84fb9ae24a1b8d76bcf8a"
           ],
           "filename": "32146_snapshots_v1.jsonl",
-          "annotator": "A1NPR51QJPWF8O",
           "corrected_values": null,
           "checks": 1
         },
@@ -5406,7 +5303,6 @@
             "2b67ab047ee949538c9d5d89046d985f"
           ],
           "filename": "32290_snapshots_v1.jsonl",
-          "annotator": "A2MCG5W6LHSRG9",
           "corrected_values": null,
           "checks": 4
         },
@@ -5432,7 +5328,6 @@
             "f41c2851f4b241fcad3f8f15378da53b"
           ],
           "filename": "32380_snapshots_v1.jsonl",
-          "annotator": "AL3R9QOZFX5YK",
           "corrected_values": null,
           "checks": 7
         }
@@ -5575,7 +5470,6 @@
             "bf454a84e687425db55a946493d2ba72"
           ],
           "filename": "32021_snapshots_v2.jsonl",
-          "annotator": "A1HQGU5SA9UORE",
           "corrected_values": null,
           "checks": 6
         },
@@ -5608,7 +5502,6 @@
             "bf454a84e687425db55a946493d2ba72"
           ],
           "filename": "32129_snapshots_v1.jsonl",
-          "annotator": "A1ILC3RA4OMUFE",
           "corrected_values": null,
           "checks": 3
         },
@@ -5626,7 +5519,6 @@
             "bf454a84e687425db55a946493d2ba72"
           ],
           "filename": "32147_snapshots_v1.jsonl",
-          "annotator": "A1NPR51QJPWF8O",
           "corrected_values": null,
           "checks": 1
         },
@@ -5643,7 +5535,6 @@
             "d1de08c84e9e4f42a0acaeee738df23a"
           ],
           "filename": "32291_snapshots_v1.jsonl",
-          "annotator": "A2MCG5W6LHSRG9",
           "corrected_values": null,
           "checks": 1
         },
@@ -5702,7 +5593,6 @@
             "bf454a84e687425db55a946493d2ba72"
           ],
           "filename": "32381_snapshots_v1.jsonl",
-          "annotator": "AL3R9QOZFX5YK",
           "corrected_values": null,
           "checks": 11
         }
@@ -5844,7 +5734,6 @@
             "a59713eed44e47cca397462601c4d960"
           ],
           "filename": "32022_snapshots_v2.jsonl",
-          "annotator": "A1HQGU5SA9UORE",
           "corrected_values": null,
           "checks": 2
         },
@@ -5871,7 +5760,6 @@
             "a59713eed44e47cca397462601c4d960"
           ],
           "filename": "32130_snapshots_v1.jsonl",
-          "annotator": "A1ILC3RA4OMUFE",
           "corrected_values": null,
           "checks": 1
         },
@@ -5893,7 +5781,6 @@
             "a59713eed44e47cca397462601c4d960"
           ],
           "filename": "32148_snapshots_v1.jsonl",
-          "annotator": "A1NPR51QJPWF8O",
           "corrected_values": null,
           "checks": 1
         },
@@ -5917,7 +5804,6 @@
             "a59713eed44e47cca397462601c4d960"
           ],
           "filename": "32292_snapshots_v1.jsonl",
-          "annotator": "A2MCG5W6LHSRG9",
           "corrected_values": null,
           "checks": 1
         },
@@ -5964,7 +5850,6 @@
             "7c9f57c094654e9a9cb27ae4a2f7fa0b"
           ],
           "filename": "32382_snapshots_v1.jsonl",
-          "annotator": "AL3R9QOZFX5YK",
           "corrected_values": null,
           "checks": 5
         }
@@ -6105,7 +5990,6 @@
             "0f5c56e60cbf429eb30903125c3035b6"
           ],
           "filename": "32023_snapshots_v2.jsonl",
-          "annotator": "A1HQGU5SA9UORE",
           "corrected_values": null,
           "checks": 11
         },
@@ -6123,7 +6007,6 @@
             "49888a3fad204e94a546db3b697a364b"
           ],
           "filename": "32131_snapshots_v1.jsonl",
-          "annotator": "A1ILC3RA4OMUFE",
           "corrected_values": null,
           "checks": 1
         },
@@ -6146,7 +6029,6 @@
             "4e928c0ff7504619b7c308a354c78f5f"
           ],
           "filename": "32149_snapshots_v1.jsonl",
-          "annotator": "A1NPR51QJPWF8O",
           "corrected_values": null,
           "checks": 5
         },
@@ -6181,7 +6063,6 @@
             "20216703be7341b89b57ea2165e6a9bb"
           ],
           "filename": "32293_snapshots_v1.jsonl",
-          "annotator": "A2MCG5W6LHSRG9",
           "corrected_values": null,
           "checks": 11
         },
@@ -6201,7 +6082,6 @@
             "ccabfad5dfcd47cd821e57a15a58d55c"
           ],
           "filename": "32383_snapshots_v1.jsonl",
-          "annotator": "AL3R9QOZFX5YK",
           "corrected_values": null,
           "checks": 2
         }
@@ -6349,7 +6229,6 @@
             "975c5e19ef5044dab4de3980447432f1"
           ],
           "filename": "32024_snapshots_v3.jsonl",
-          "annotator": "A3F4HU9PFUKQAB",
           "corrected_values": null,
           "checks": 12
         },
@@ -6366,7 +6245,6 @@
             "e5aaafbfaaed466fa93ee3773282cfdc"
           ],
           "filename": "32132_snapshots_v7.jsonl",
-          "annotator": "A6K3WPT5PQZL6",
           "corrected_values": null,
           "checks": 1
         },
@@ -6388,7 +6266,6 @@
             "5a57fb3d78084b48a7c31e681b7bdf0e"
           ],
           "filename": "32150_snapshots_v2.jsonl",
-          "annotator": "A1JYLGFWGHZWTF",
           "corrected_values": null,
           "checks": 1
         },
@@ -6509,7 +6386,6 @@
             "de87e9646a654e1e8f4e96593a3adbc3"
           ],
           "filename": "32294_snapshots_v1.jsonl",
-          "annotator": "A1ABRVTR49OA73",
           "corrected_values": null,
           "checks": 31
         },
@@ -6526,7 +6402,6 @@
             "de87e9646a654e1e8f4e96593a3adbc3"
           ],
           "filename": "32384_snapshots_v1.jsonl",
-          "annotator": "A2GUSVGAKNEGQF",
           "corrected_values": null,
           "checks": 1
         }
@@ -6654,7 +6529,6 @@
             "1cae8cb0d87e4c2694aabe3b9cecd0f9"
           ],
           "filename": "32025_snapshots_v2.jsonl",
-          "annotator": "A3F4HU9PFUKQAB",
           "corrected_values": null,
           "checks": 1
         },
@@ -6684,7 +6558,6 @@
             "782da181b84741359dfbf275099c7ea8"
           ],
           "filename": "32133_snapshots_v5.jsonl",
-          "annotator": "A6K3WPT5PQZL6",
           "corrected_values": null,
           "checks": 3
         },
@@ -6713,7 +6586,6 @@
             "782da181b84741359dfbf275099c7ea8"
           ],
           "filename": "32151_snapshots_v1.jsonl",
-          "annotator": "A1JYLGFWGHZWTF",
           "corrected_values": null,
           "checks": 1
         },
@@ -6745,7 +6617,6 @@
             "328ef7c3d2ed4da7a2e2af2f27735c10"
           ],
           "filename": "32295_snapshots_v2.jsonl",
-          "annotator": "A1ABRVTR49OA73",
           "corrected_values": null,
           "checks": 3
         },
@@ -6762,7 +6633,6 @@
             "b2f2e0367c764b9b8b236ff6fe73f19c"
           ],
           "filename": "32385_snapshots_v2.jsonl",
-          "annotator": "A2GUSVGAKNEGQF",
           "corrected_values": null,
           "checks": 1
         }
@@ -6887,7 +6757,6 @@
             "3510eb416b7d4d779881abc5b5cf2cec"
           ],
           "filename": "32026_snapshots_v1.jsonl",
-          "annotator": "A3F4HU9PFUKQAB",
           "corrected_values": null,
           "checks": 1
         },
@@ -6907,7 +6776,6 @@
             "8abf5b60ba564dcaa87fc2d982521be5"
           ],
           "filename": "32134_snapshots_v3.jsonl",
-          "annotator": "A6K3WPT5PQZL6",
           "corrected_values": null,
           "checks": 3
         },
@@ -6927,7 +6795,6 @@
             "8abf5b60ba564dcaa87fc2d982521be5"
           ],
           "filename": "32152_snapshots_v1.jsonl",
-          "annotator": "A1JYLGFWGHZWTF",
           "corrected_values": null,
           "checks": 1
         },
@@ -6961,7 +6828,6 @@
             "02253cded39e4f26a34c483d645ebcb7"
           ],
           "filename": "32296_snapshots_v2.jsonl",
-          "annotator": "A1ABRVTR49OA73",
           "corrected_values": null,
           "checks": 3
         },
@@ -6984,7 +6850,6 @@
             "e3b1895ff0cb41b19be7fb13aa4e8d9a"
           ],
           "filename": "32386_snapshots_v1.jsonl",
-          "annotator": "A2GUSVGAKNEGQF",
           "corrected_values": null,
           "checks": 1
         }
@@ -7112,7 +6977,6 @@
             "d52aaea9fc6e4d5fbecd0220eb9da436"
           ],
           "filename": "32027_snapshots_v2.jsonl",
-          "annotator": "A3F4HU9PFUKQAB",
           "corrected_values": null,
           "checks": 1
         },
@@ -7136,7 +7000,6 @@
             "6142140dfac2471b881ce5f083f427eb"
           ],
           "filename": "32135_snapshots_v3.jsonl",
-          "annotator": "A6K3WPT5PQZL6",
           "corrected_values": null,
           "checks": 1
         },
@@ -7151,7 +7014,6 @@
             "043526f4441e4a4b8bf7e686047a0e96"
           ],
           "filename": "32153_snapshots_v1.jsonl",
-          "annotator": "A1JYLGFWGHZWTF",
           "corrected_values": null,
           "checks": 1
         },
@@ -7188,7 +7050,6 @@
             "13c191f506114c73b70830b89e195aa6"
           ],
           "filename": "32297_snapshots_v1.jsonl",
-          "annotator": "A1ABRVTR49OA73",
           "corrected_values": null,
           "checks": 1
         },
@@ -7208,7 +7069,6 @@
             "d52aaea9fc6e4d5fbecd0220eb9da436"
           ],
           "filename": "32387_snapshots_v1.jsonl",
-          "annotator": "A2GUSVGAKNEGQF",
           "corrected_values": null,
           "checks": 1
         }
@@ -7342,7 +7202,6 @@
             "7cbf8c7b17d542dbb76bb9951fffddfe"
           ],
           "filename": "32028_snapshots_v2.jsonl",
-          "annotator": "A3F4HU9PFUKQAB",
           "corrected_values": null,
           "checks": 1
         },
@@ -7361,7 +7220,6 @@
             "4ad533e309ca4c61856c953afb7876b6"
           ],
           "filename": "32136_snapshots_v3.jsonl",
-          "annotator": "A6K3WPT5PQZL6",
           "corrected_values": null,
           "checks": 1
         },
@@ -7380,7 +7238,6 @@
             "a62a0607fae3496d9018dc74a561be64"
           ],
           "filename": "32154_snapshots_v1.jsonl",
-          "annotator": "A1JYLGFWGHZWTF",
           "corrected_values": null,
           "checks": 1
         },
@@ -7424,7 +7281,6 @@
             "a78621aa1fa24b99bc2752ee584416c8"
           ],
           "filename": "32298_snapshots_v1.jsonl",
-          "annotator": "A1ABRVTR49OA73",
           "corrected_values": null,
           "checks": 2
         },
@@ -7452,7 +7308,6 @@
             "4ad533e309ca4c61856c953afb7876b6"
           ],
           "filename": "32388_snapshots_v1.jsonl",
-          "annotator": "A2GUSVGAKNEGQF",
           "corrected_values": null,
           "checks": 2
         }
@@ -7586,7 +7441,6 @@
             "fc8991e507984600b21065aef5b410b5"
           ],
           "filename": "32029_snapshots_v2.jsonl",
-          "annotator": "A3F4HU9PFUKQAB",
           "corrected_values": null,
           "checks": 2
         },
@@ -7618,7 +7472,6 @@
             "85b4d3014af0457e9bb0827ea6e18925"
           ],
           "filename": "32137_snapshots_v3.jsonl",
-          "annotator": "A6K3WPT5PQZL6",
           "corrected_values": null,
           "checks": 1
         },
@@ -7637,7 +7490,6 @@
             "d0fd62a0342b4cf1ba722c39aca257ce"
           ],
           "filename": "32155_snapshots_v1.jsonl",
-          "annotator": "A1JYLGFWGHZWTF",
           "corrected_values": null,
           "checks": 1
         },
@@ -7754,7 +7606,6 @@
             "778fcb7553fe4322a49ddc62554ce081"
           ],
           "filename": "32299_snapshots_v1.jsonl",
-          "annotator": "A1ABRVTR49OA73",
           "corrected_values": null,
           "checks": 17
         },
@@ -7782,7 +7633,6 @@
             "7809ee4664cd428c8831a1267d23eaff"
           ],
           "filename": "32389_snapshots_v1.jsonl",
-          "annotator": "A2GUSVGAKNEGQF",
           "corrected_values": null,
           "checks": 1
         }
@@ -7904,7 +7754,6 @@
             "78ad6e43879c433ea88417b72e61c80f"
           ],
           "filename": "32030_snapshots_v2.jsonl",
-          "annotator": "A2LWGX5FNOVVBX",
           "corrected_values": null,
           "checks": 1
         },
@@ -7924,7 +7773,6 @@
             "78ad6e43879c433ea88417b72e61c80f"
           ],
           "filename": "32138_snapshots_v1.jsonl",
-          "annotator": "A2VLTSW6CXIUMR",
           "corrected_values": null,
           "checks": 4
         },
@@ -7940,7 +7788,6 @@
             "78ad6e43879c433ea88417b72e61c80f"
           ],
           "filename": "32156_snapshots_v1.jsonl",
-          "annotator": "AJFKM9C46R2E",
           "corrected_values": null,
           "checks": 1
         },
@@ -8013,7 +7860,6 @@
             "5ee7559f2e4e46cc9a20562c3afb7ce6"
           ],
           "filename": "32300_snapshots_v2.jsonl",
-          "annotator": "A1D2JWRADNJ7B8",
           "corrected_values": null,
           "checks": 8
         },
@@ -8046,7 +7892,6 @@
             "78ad6e43879c433ea88417b72e61c80f"
           ],
           "filename": "32390_snapshots_v2.jsonl",
-          "annotator": "A2OYNK5LRU65XK",
           "corrected_values": null,
           "checks": 2
         }
@@ -8220,7 +8065,6 @@
             "6a99c723d40b429e96a29c8ce7532d1d"
           ],
           "filename": "32031_snapshots_v2.jsonl",
-          "annotator": "A2LWGX5FNOVVBX",
           "corrected_values": null,
           "checks": 5
         },
@@ -8239,7 +8083,6 @@
             "15a194390fdd47f9a0afd6753a0ba588"
           ],
           "filename": "32139_snapshots_v1.jsonl",
-          "annotator": "A2VLTSW6CXIUMR",
           "corrected_values": null,
           "checks": 5
         },
@@ -8258,7 +8101,6 @@
             "6a99c723d40b429e96a29c8ce7532d1d"
           ],
           "filename": "32157_snapshots_v1.jsonl",
-          "annotator": "AJFKM9C46R2E",
           "corrected_values": null,
           "checks": 1
         },
@@ -8299,7 +8141,6 @@
             "a7ab19b1a9f044f0905592de1414e8b3"
           ],
           "filename": "32301_snapshots_v1.jsonl",
-          "annotator": "A1D2JWRADNJ7B8",
           "corrected_values": null,
           "checks": 9
         },
@@ -8329,7 +8170,6 @@
             "15a194390fdd47f9a0afd6753a0ba588"
           ],
           "filename": "32391_snapshots_v2.jsonl",
-          "annotator": "A2OYNK5LRU65XK",
           "corrected_values": null,
           "checks": 6
         }
@@ -8454,7 +8294,6 @@
             "eca64f51a1ea43619f0b623c2095964c"
           ],
           "filename": "32032_snapshots_v2.jsonl",
-          "annotator": "A2LWGX5FNOVVBX",
           "corrected_values": null,
           "checks": 7
         },
@@ -8471,7 +8310,6 @@
             "9d9c29287e4849b99c4b3472163ecee2"
           ],
           "filename": "32140_snapshots_v1.jsonl",
-          "annotator": "A2VLTSW6CXIUMR",
           "corrected_values": null,
           "checks": 1
         },
@@ -8489,7 +8327,6 @@
             "8c46244ce7fb468baeebd75d1fa9794f"
           ],
           "filename": "32158_snapshots_v1.jsonl",
-          "annotator": "AJFKM9C46R2E",
           "corrected_values": null,
           "checks": 1
         },
@@ -8508,7 +8345,6 @@
             "eca64f51a1ea43619f0b623c2095964c"
           ],
           "filename": "32302_snapshots_v1.jsonl",
-          "annotator": "A1D2JWRADNJ7B8",
           "corrected_values": null,
           "checks": 2
         },
@@ -8530,7 +8366,6 @@
             "eca64f51a1ea43619f0b623c2095964c"
           ],
           "filename": "32392_snapshots_v2.jsonl",
-          "annotator": "A2OYNK5LRU65XK",
           "corrected_values": null,
           "checks": 4
         }
@@ -8675,7 +8510,6 @@
             "b2f2e0367c764b9b8b236ff6fe73f19c"
           ],
           "filename": "32033_snapshots_v2.jsonl",
-          "annotator": "A2LWGX5FNOVVBX",
           "corrected_values": null,
           "checks": 2
         },
@@ -8690,7 +8524,6 @@
             "929158cc8c424c099a601a36e0fc2270"
           ],
           "filename": "32141_snapshots_v1.jsonl",
-          "annotator": "A2VLTSW6CXIUMR",
           "corrected_values": null,
           "checks": 1
         },
@@ -8709,7 +8542,6 @@
             "5923f6d03fd04d8e8c8d7a9ac4be821a"
           ],
           "filename": "32159_snapshots_v1.jsonl",
-          "annotator": "AJFKM9C46R2E",
           "corrected_values": null,
           "checks": 1
         },
@@ -8746,7 +8578,6 @@
             "432b3b9f281243a1bed28ff4877bc7e7"
           ],
           "filename": "32303_snapshots_v1.jsonl",
-          "annotator": "A1D2JWRADNJ7B8",
           "corrected_values": null,
           "checks": 8
         },
@@ -8763,7 +8594,6 @@
             "b2f2e0367c764b9b8b236ff6fe73f19c"
           ],
           "filename": "32393_snapshots_v2.jsonl",
-          "annotator": "A2OYNK5LRU65XK",
           "corrected_values": null,
           "checks": 1
         }
@@ -8889,7 +8719,6 @@
             "7cd02069ac1546319b95be27fc04d7b5"
           ],
           "filename": "32034_snapshots_v2.jsonl",
-          "annotator": "A2LWGX5FNOVVBX",
           "corrected_values": null,
           "checks": 1
         },
@@ -8903,7 +8732,6 @@
             "7743b72f7c3d40749363873307eef9c9"
           ],
           "filename": "32142_snapshots_v1.jsonl",
-          "annotator": "A2VLTSW6CXIUMR",
           "corrected_values": null,
           "checks": 1
         },
@@ -8917,7 +8745,6 @@
             "7743b72f7c3d40749363873307eef9c9"
           ],
           "filename": "32160_snapshots_v2.jsonl",
-          "annotator": "AJFKM9C46R2E",
           "corrected_values": null,
           "checks": 1
         },
@@ -8958,7 +8785,6 @@
             "7cd02069ac1546319b95be27fc04d7b5"
           ],
           "filename": "32304_snapshots_v1.jsonl",
-          "annotator": "A1D2JWRADNJ7B8",
           "corrected_values": null,
           "checks": 13
         },
@@ -8972,7 +8798,6 @@
             "7743b72f7c3d40749363873307eef9c9"
           ],
           "filename": "32394_snapshots_v2.jsonl",
-          "annotator": "A2OYNK5LRU65XK",
           "corrected_values": null,
           "checks": 1
         }
@@ -9098,7 +8923,6 @@
             "7cd02069ac1546319b95be27fc04d7b5"
           ],
           "filename": "32035_snapshots_v2.jsonl",
-          "annotator": "A2LWGX5FNOVVBX",
           "corrected_values": null,
           "checks": 2
         },
@@ -9112,7 +8936,6 @@
             "7743b72f7c3d40749363873307eef9c9"
           ],
           "filename": "32143_snapshots_v1.jsonl",
-          "annotator": "A2VLTSW6CXIUMR",
           "corrected_values": null,
           "checks": 1
         },
@@ -9126,7 +8949,6 @@
             "7743b72f7c3d40749363873307eef9c9"
           ],
           "filename": "32161_snapshots_v1.jsonl",
-          "annotator": "AJFKM9C46R2E",
           "corrected_values": null,
           "checks": 1
         },
@@ -9163,7 +8985,6 @@
             "5125c4a0a99f45788e694d5a73ba99c7"
           ],
           "filename": "32305_snapshots_v1.jsonl",
-          "annotator": "A1D2JWRADNJ7B8",
           "corrected_values": null,
           "checks": 5
         },
@@ -9177,7 +8998,6 @@
             "7743b72f7c3d40749363873307eef9c9"
           ],
           "filename": "32395_snapshots_v2.jsonl",
-          "annotator": "A2OYNK5LRU65XK",
           "corrected_values": null,
           "checks": 1
         }
@@ -9325,7 +9145,6 @@
             "6127ee658ce64bf48765bf59bbead503"
           ],
           "filename": "32036_snapshots_v1.jsonl",
-          "annotator": "A3I40B0FATY8VH",
           "corrected_values": null,
           "checks": 3
         },
@@ -9352,7 +9171,6 @@
             "ed79b51efdac434cb12bcd3d5e7fd112"
           ],
           "filename": "32108_snapshots_v3.jsonl",
-          "annotator": "A2BJXNGIAGZ09H",
           "corrected_values": null,
           "checks": 7
         },
@@ -9377,7 +9195,6 @@
             "ed79b51efdac434cb12bcd3d5e7fd112"
           ],
           "filename": "32162_snapshots_v2.jsonl",
-          "annotator": "AZ7VRPEVTCAIP",
           "corrected_values": null,
           "checks": 5
         },
@@ -9402,7 +9219,6 @@
             "ed79b51efdac434cb12bcd3d5e7fd112"
           ],
           "filename": "32306_snapshots_v1.jsonl",
-          "annotator": "A2ZYHLRC9AJ6A2",
           "corrected_values": null,
           "checks": 2
         },
@@ -9450,7 +9266,6 @@
             "ed79b51efdac434cb12bcd3d5e7fd112"
           ],
           "filename": "32396_snapshots_v1.jsonl",
-          "annotator": "A2VNIOI5GX51C6",
           "corrected_values": null,
           "checks": 2
         }
@@ -9571,7 +9386,6 @@
             "c1dff12edb1e4cb0a1f5bc3b356dd4e2"
           ],
           "filename": "32037_snapshots_v1.jsonl",
-          "annotator": "A3I40B0FATY8VH",
           "corrected_values": null,
           "checks": 1
         },
@@ -9588,7 +9402,6 @@
             "387707c22d4447f4b8ceff7a4ae26c46"
           ],
           "filename": "32109_snapshots_v3.jsonl",
-          "annotator": "A2BJXNGIAGZ09H",
           "corrected_values": null,
           "checks": 1
         },
@@ -9611,7 +9424,6 @@
             "387707c22d4447f4b8ceff7a4ae26c46"
           ],
           "filename": "32163_snapshots_v2.jsonl",
-          "annotator": "AZ7VRPEVTCAIP",
           "corrected_values": null,
           "checks": 1
         },
@@ -9630,7 +9442,6 @@
             "387707c22d4447f4b8ceff7a4ae26c46"
           ],
           "filename": "32307_snapshots_v1.jsonl",
-          "annotator": "A2ZYHLRC9AJ6A2",
           "corrected_values": null,
           "checks": 1
         },
@@ -9651,7 +9462,6 @@
             "c1dff12edb1e4cb0a1f5bc3b356dd4e2"
           ],
           "filename": "32397_snapshots_v1.jsonl",
-          "annotator": "A2VNIOI5GX51C6",
           "corrected_values": null,
           "checks": 2
         }
@@ -9794,7 +9604,6 @@
             "d6fc111b6fad4cd0813e2cf3706c3945"
           ],
           "filename": "32038_snapshots_v1.jsonl",
-          "annotator": "A3I40B0FATY8VH",
           "corrected_values": null,
           "checks": 1
         },
@@ -9833,7 +9642,6 @@
             "32ddd1485c98480f9a6ecd24ace5d49f"
           ],
           "filename": "32110_snapshots_v2.jsonl",
-          "annotator": "A2BJXNGIAGZ09H",
           "corrected_values": null,
           "checks": 3
         },
@@ -9852,7 +9660,6 @@
             "d6fc111b6fad4cd0813e2cf3706c3945"
           ],
           "filename": "32164_snapshots_v2.jsonl",
-          "annotator": "AZ7VRPEVTCAIP",
           "corrected_values": null,
           "checks": 1
         },
@@ -9873,7 +9680,6 @@
             "d6fc111b6fad4cd0813e2cf3706c3945"
           ],
           "filename": "32308_snapshots_v1.jsonl",
-          "annotator": "A2ZYHLRC9AJ6A2",
           "corrected_values": null,
           "checks": 1
         },
@@ -9926,7 +9732,6 @@
             "f41c2851f4b241fcad3f8f15378da53b"
           ],
           "filename": "32398_snapshots_v1.jsonl",
-          "annotator": "A2VNIOI5GX51C6",
           "corrected_values": null,
           "checks": 5
         }
@@ -10047,7 +9852,6 @@
             "99dc41ba4676449d8fc37890a38ad9e3"
           ],
           "filename": "32039_snapshots_v1.jsonl",
-          "annotator": "A3I40B0FATY8VH",
           "corrected_values": null,
           "checks": 1
         },
@@ -10080,7 +9884,6 @@
             "670c1f85156549b7a6b7e7ebd8518b6d"
           ],
           "filename": "32111_snapshots_v2.jsonl",
-          "annotator": "A2BJXNGIAGZ09H",
           "corrected_values": null,
           "checks": 17
         },
@@ -10113,7 +9916,6 @@
             "d5183baffb764292a1ce414243f30ef6"
           ],
           "filename": "32165_snapshots_v2.jsonl",
-          "annotator": "AZ7VRPEVTCAIP",
           "corrected_values": null,
           "checks": 4
         },
@@ -10131,7 +9933,6 @@
             "bf454a84e687425db55a946493d2ba72"
           ],
           "filename": "32309_snapshots_v1.jsonl",
-          "annotator": "A2ZYHLRC9AJ6A2",
           "corrected_values": null,
           "checks": 1
         },
@@ -10188,7 +9989,6 @@
             "ca2cb94049944c7091641520209144d7"
           ],
           "filename": "32399_snapshots_v1.jsonl",
-          "annotator": "A2VNIOI5GX51C6",
           "corrected_values": null,
           "checks": 10
         }
@@ -10313,7 +10113,6 @@
             "a59713eed44e47cca397462601c4d960"
           ],
           "filename": "32040_snapshots_v1.jsonl",
-          "annotator": "A3I40B0FATY8VH",
           "corrected_values": null,
           "checks": 1
         },
@@ -10338,7 +10137,6 @@
             "7c9f57c094654e9a9cb27ae4a2f7fa0b"
           ],
           "filename": "32112_snapshots_v1.jsonl",
-          "annotator": "A2BJXNGIAGZ09H",
           "corrected_values": null,
           "checks": 1
         },
@@ -10381,7 +10179,6 @@
             "a59713eed44e47cca397462601c4d960"
           ],
           "filename": "32166_snapshots_v2.jsonl",
-          "annotator": "AZ7VRPEVTCAIP",
           "corrected_values": null,
           "checks": 5
         },
@@ -10403,7 +10200,6 @@
             "a59713eed44e47cca397462601c4d960"
           ],
           "filename": "32310_snapshots_v1.jsonl",
-          "annotator": "A2ZYHLRC9AJ6A2",
           "corrected_values": null,
           "checks": 2
         },
@@ -10437,7 +10233,6 @@
             "7c9f57c094654e9a9cb27ae4a2f7fa0b"
           ],
           "filename": "32400_snapshots_v1.jsonl",
-          "annotator": "A2VNIOI5GX51C6",
           "corrected_values": null,
           "checks": 1
         }
@@ -10595,7 +10390,6 @@
             "20216703be7341b89b57ea2165e6a9bb"
           ],
           "filename": "32041_snapshots_v1.jsonl",
-          "annotator": "A3I40B0FATY8VH",
           "corrected_values": null,
           "checks": 10
         },
@@ -10642,7 +10436,6 @@
             "1bc6dad179a6490691f99433c6e45ff6"
           ],
           "filename": "32113_snapshots_v1.jsonl",
-          "annotator": "A2BJXNGIAGZ09H",
           "corrected_values": null,
           "checks": 17
         },
@@ -10696,7 +10489,6 @@
             "ccabfad5dfcd47cd821e57a15a58d55c"
           ],
           "filename": "32167_snapshots_v2.jsonl",
-          "annotator": "AZ7VRPEVTCAIP",
           "corrected_values": null,
           "checks": 12
         },
@@ -10723,7 +10515,6 @@
             "432fbb4e9d7c47698c5f204563bc9dda"
           ],
           "filename": "32311_snapshots_v2.jsonl",
-          "annotator": "A2ZYHLRC9AJ6A2",
           "corrected_values": null,
           "checks": 2
         },
@@ -10749,7 +10540,6 @@
             "9638fb3433444ff2b5c1a0ec5078c1c1"
           ],
           "filename": "32401_snapshots_v1.jsonl",
-          "annotator": "A2VNIOI5GX51C6",
           "corrected_values": null,
           "checks": 2
         }
@@ -10916,7 +10706,6 @@
             "5a57fb3d78084b48a7c31e681b7bdf0e"
           ],
           "filename": "32042_snapshots_v1.jsonl",
-          "annotator": "A29B2D9ELMQMJV",
           "corrected_values": null,
           "checks": 5
         },
@@ -10965,7 +10754,6 @@
             "f80615548af14224b3d0c65bd5919a3c"
           ],
           "filename": "32114_snapshots_v3.jsonl",
-          "annotator": "AOOU57BC3GK9J",
           "corrected_values": null,
           "checks": 3
         },
@@ -10984,7 +10772,6 @@
             "d922a7a5956c4a42af51637f14c165d6"
           ],
           "filename": "32168_snapshots_v3.jsonl",
-          "annotator": "A1STB9FNAQHEZL",
           "corrected_values": null,
           "checks": 1
         },
@@ -11004,7 +10791,6 @@
             "de87e9646a654e1e8f4e96593a3adbc3"
           ],
           "filename": "32312_snapshots_v1.jsonl",
-          "annotator": "A3WJU5XK5O1VP",
           "corrected_values": null,
           "checks": 3
         },
@@ -11071,7 +10857,6 @@
             "de87e9646a654e1e8f4e96593a3adbc3"
           ],
           "filename": "32402_snapshots_v1.jsonl",
-          "annotator": "A10NVEMN0583XK",
           "corrected_values": null,
           "checks": 13
         }
@@ -11206,7 +10991,6 @@
             "782da181b84741359dfbf275099c7ea8"
           ],
           "filename": "32043_snapshots_v1.jsonl",
-          "annotator": "A29B2D9ELMQMJV",
           "corrected_values": null,
           "checks": 1
         },
@@ -11278,7 +11062,6 @@
             "e5e480c51441441eac6f327e5389dd33"
           ],
           "filename": "32115_snapshots_v5.jsonl",
-          "annotator": "AOOU57BC3GK9J",
           "corrected_values": null,
           "checks": 4
         },
@@ -11306,7 +11089,6 @@
             "782da181b84741359dfbf275099c7ea8"
           ],
           "filename": "32169_snapshots_v3.jsonl",
-          "annotator": "A1STB9FNAQHEZL",
           "corrected_values": null,
           "checks": 1
         },
@@ -11431,7 +11213,6 @@
             "328ef7c3d2ed4da7a2e2af2f27735c10"
           ],
           "filename": "32313_snapshots_v1.jsonl",
-          "annotator": "A3WJU5XK5O1VP",
           "corrected_values": null,
           "checks": 14
         },
@@ -11448,7 +11229,6 @@
             "328ef7c3d2ed4da7a2e2af2f27735c10"
           ],
           "filename": "32403_snapshots_v1.jsonl",
-          "annotator": "A10NVEMN0583XK",
           "corrected_values": null,
           "checks": 1
         }
@@ -11573,7 +11353,6 @@
             "3510eb416b7d4d779881abc5b5cf2cec"
           ],
           "filename": "32044_snapshots_v1.jsonl",
-          "annotator": "A29B2D9ELMQMJV",
           "corrected_values": null,
           "checks": 1
         },
@@ -11591,7 +11370,6 @@
             "8f93db141d2a4ba38f1bafbff0b3b43c"
           ],
           "filename": "32116_snapshots_v4.jsonl",
-          "annotator": "AOOU57BC3GK9J",
           "corrected_values": null,
           "checks": 1
         },
@@ -11611,7 +11389,6 @@
             "673b43f1b9fe4a9e8202393028e180e8"
           ],
           "filename": "32170_snapshots_v3.jsonl",
-          "annotator": "A1STB9FNAQHEZL",
           "corrected_values": null,
           "checks": 1
         },
@@ -11632,7 +11409,6 @@
             "b6985ed68dd8405e969fcbbcd6dfcc42"
           ],
           "filename": "32314_snapshots_v1.jsonl",
-          "annotator": "A3WJU5XK5O1VP",
           "corrected_values": null,
           "checks": 1
         },
@@ -11650,7 +11426,6 @@
             "8f93db141d2a4ba38f1bafbff0b3b43c"
           ],
           "filename": "32404_snapshots_v1.jsonl",
-          "annotator": "A10NVEMN0583XK",
           "corrected_values": null,
           "checks": 1
         }
@@ -11784,7 +11559,6 @@
             "13c191f506114c73b70830b89e195aa6"
           ],
           "filename": "32045_snapshots_v1.jsonl",
-          "annotator": "A29B2D9ELMQMJV",
           "corrected_values": null,
           "checks": 1
         },
@@ -11817,7 +11591,6 @@
             "d52aaea9fc6e4d5fbecd0220eb9da436"
           ],
           "filename": "32117_snapshots_v4.jsonl",
-          "annotator": "AOOU57BC3GK9J",
           "corrected_values": null,
           "checks": 1
         },
@@ -11837,7 +11610,6 @@
             "c0d5fe43f0b143df80de8b5f78858474"
           ],
           "filename": "32171_snapshots_v3.jsonl",
-          "annotator": "A1STB9FNAQHEZL",
           "corrected_values": null,
           "checks": 1
         },
@@ -11858,7 +11630,6 @@
             "13c191f506114c73b70830b89e195aa6"
           ],
           "filename": "32315_snapshots_v1.jsonl",
-          "annotator": "A3WJU5XK5O1VP",
           "corrected_values": null,
           "checks": 1
         },
@@ -11876,7 +11647,6 @@
             "d52aaea9fc6e4d5fbecd0220eb9da436"
           ],
           "filename": "32405_snapshots_v1.jsonl",
-          "annotator": "A10NVEMN0583XK",
           "corrected_values": null,
           "checks": 1
         }
@@ -12015,7 +11785,6 @@
             "a62a0607fae3496d9018dc74a561be64"
           ],
           "filename": "32046_snapshots_v1.jsonl",
-          "annotator": "A29B2D9ELMQMJV",
           "corrected_values": null,
           "checks": 1
         },
@@ -12039,7 +11808,6 @@
             "397cae1de3b74644804196b838fd3c8a"
           ],
           "filename": "32118_snapshots_v4.jsonl",
-          "annotator": null,
           "corrected_values": null,
           "checks": null
         },
@@ -12061,7 +11829,6 @@
             "4ad533e309ca4c61856c953afb7876b6"
           ],
           "filename": "32172_snapshots_v3.jsonl",
-          "annotator": "A1STB9FNAQHEZL",
           "corrected_values": null,
           "checks": 1
         },
@@ -12093,7 +11860,6 @@
             "a78621aa1fa24b99bc2752ee584416c8"
           ],
           "filename": "32316_snapshots_v1.jsonl",
-          "annotator": "A3WJU5XK5O1VP",
           "corrected_values": null,
           "checks": 4
         },
@@ -12110,7 +11876,6 @@
             "4460e0586719490095d7ac389f302500"
           ],
           "filename": "32406_snapshots_v1.jsonl",
-          "annotator": "A10NVEMN0583XK",
           "corrected_values": null,
           "checks": 1
         }
@@ -12247,7 +12012,6 @@
             "778fcb7553fe4322a49ddc62554ce081"
           ],
           "filename": "32047_snapshots_v1.jsonl",
-          "annotator": "A29B2D9ELMQMJV",
           "corrected_values": null,
           "checks": 1
         },
@@ -12285,7 +12049,6 @@
             "fc8991e507984600b21065aef5b410b5"
           ],
           "filename": "32119_snapshots_v4.jsonl",
-          "annotator": "AOOU57BC3GK9J",
           "corrected_values": null,
           "checks": 6
         },
@@ -12308,7 +12071,6 @@
             "bc48486938fb46c1b18c3a30767283c5"
           ],
           "filename": "32173_snapshots_v2.jsonl",
-          "annotator": "A1STB9FNAQHEZL",
           "corrected_values": null,
           "checks": 1
         },
@@ -12338,7 +12100,6 @@
             "778fcb7553fe4322a49ddc62554ce081"
           ],
           "filename": "32317_snapshots_v1.jsonl",
-          "annotator": "A3WJU5XK5O1VP",
           "corrected_values": null,
           "checks": 2
         },
@@ -12355,7 +12116,6 @@
             "13a8c23dab5b473fa8d449a126b949be"
           ],
           "filename": "32407_snapshots_v1.jsonl",
-          "annotator": "A10NVEMN0583XK",
           "corrected_values": null,
           "checks": 1
         }
@@ -12477,7 +12237,6 @@
             "3d11e46400a14c6cbc0ae42a5057ae97"
           ],
           "filename": "32048_snapshots_v2.jsonl",
-          "annotator": "A1SVV9UHWC9ENA",
           "corrected_values": null,
           "checks": 1
         },
@@ -12499,7 +12258,6 @@
             "9d33a07061f54a5eb58588a5bc9f10da"
           ],
           "filename": "32120_snapshots_v2.jsonl",
-          "annotator": "A1O5WYN0NN865K",
           "corrected_values": null,
           "checks": 1
         },
@@ -12525,7 +12283,6 @@
             "a8141dab5c2447a4ba107ddbf43c009f"
           ],
           "filename": "32174_snapshots_v1.jsonl",
-          "annotator": "A10A7EZUXBD0II",
           "corrected_values": null,
           "checks": 1
         },
@@ -12541,7 +12298,6 @@
             "78ad6e43879c433ea88417b72e61c80f"
           ],
           "filename": "32318_snapshots_v1.jsonl",
-          "annotator": "A1CMXVIAE9B3MU",
           "corrected_values": null,
           "checks": 2
         },
@@ -12560,7 +12316,6 @@
             "099839b0911a409787e237301c90e418"
           ],
           "filename": "32408_snapshots_v1.jsonl",
-          "annotator": "A11OEKPPEVCAQL",
           "corrected_values": null,
           "checks": 1
         }
@@ -12697,7 +12452,6 @@
             "9f60085423c14bdfbaee38dc2545d7a8"
           ],
           "filename": "32049_snapshots_v1.jsonl",
-          "annotator": "A1SVV9UHWC9ENA",
           "corrected_values": null,
           "checks": 1
         },
@@ -12743,7 +12497,6 @@
             "15a194390fdd47f9a0afd6753a0ba588"
           ],
           "filename": "32121_snapshots_v3.jsonl",
-          "annotator": "AOOU57BC3GK9J",
           "corrected_values": null,
           "checks": 17
         },
@@ -12764,7 +12517,6 @@
             "15a194390fdd47f9a0afd6753a0ba588"
           ],
           "filename": "32175_snapshots_v1.jsonl",
-          "annotator": "A10A7EZUXBD0II",
           "corrected_values": null,
           "checks": 2
         },
@@ -12783,7 +12535,6 @@
             "6a99c723d40b429e96a29c8ce7532d1d"
           ],
           "filename": "32319_snapshots_v1.jsonl",
-          "annotator": "A1CMXVIAE9B3MU",
           "corrected_values": null,
           "checks": 1
         },
@@ -12802,7 +12553,6 @@
             "f8acfc899a4c49ddad71fdfcfd899b2f"
           ],
           "filename": "32409_snapshots_v1.jsonl",
-          "annotator": "A11OEKPPEVCAQL",
           "corrected_values": null,
           "checks": 1
         }
@@ -12927,7 +12677,6 @@
             "d1e94fa879f44a26bb9423819c2fd6da"
           ],
           "filename": "32050_snapshots_v1.jsonl",
-          "annotator": "A1SVV9UHWC9ENA",
           "corrected_values": null,
           "checks": 1
         },
@@ -12950,7 +12699,6 @@
             "eca64f51a1ea43619f0b623c2095964c"
           ],
           "filename": "32122_snapshots_v2.jsonl",
-          "annotator": "A1O5WYN0NN865K",
           "corrected_values": null,
           "checks": 4
         },
@@ -12969,7 +12717,6 @@
             "beb3568bb9034fc9bbc1a63e63c45ad4"
           ],
           "filename": "32176_snapshots_v1.jsonl",
-          "annotator": "A10A7EZUXBD0II",
           "corrected_values": null,
           "checks": 2
         },
@@ -12987,7 +12734,6 @@
             "8c46244ce7fb468baeebd75d1fa9794f"
           ],
           "filename": "32320_snapshots_v1.jsonl",
-          "annotator": "A1CMXVIAE9B3MU",
           "corrected_values": null,
           "checks": 1
         },
@@ -13005,7 +12751,6 @@
             "8c46244ce7fb468baeebd75d1fa9794f"
           ],
           "filename": "32410_snapshots_v1.jsonl",
-          "annotator": "A11OEKPPEVCAQL",
           "corrected_values": null,
           "checks": 1
         }
@@ -13128,7 +12873,6 @@
             "cd8460c3c9834ea0a1f61611f39d24a4"
           ],
           "filename": "32051_snapshots_v1.jsonl",
-          "annotator": "A1SVV9UHWC9ENA",
           "corrected_values": null,
           "checks": 1
         },
@@ -13145,7 +12889,6 @@
             "b2f2e0367c764b9b8b236ff6fe73f19c"
           ],
           "filename": "32123_snapshots_v3.jsonl",
-          "annotator": "A1O5WYN0NN865K",
           "corrected_values": null,
           "checks": 1
         },
@@ -13161,7 +12904,6 @@
             "432b3b9f281243a1bed28ff4877bc7e7"
           ],
           "filename": "32177_snapshots_v1.jsonl",
-          "annotator": "A10A7EZUXBD0II",
           "corrected_values": null,
           "checks": 1
         },
@@ -13179,7 +12921,6 @@
             "5923f6d03fd04d8e8c8d7a9ac4be821a"
           ],
           "filename": "32321_snapshots_v1.jsonl",
-          "annotator": "A1CMXVIAE9B3MU",
           "corrected_values": null,
           "checks": 1
         },
@@ -13196,7 +12937,6 @@
             "5f0f99f48a244226aace3c060c211308"
           ],
           "filename": "32411_snapshots_v1.jsonl",
-          "annotator": "A11OEKPPEVCAQL",
           "corrected_values": null,
           "checks": 1
         }
@@ -13321,7 +13061,6 @@
             "e0cc229442d3469893cdf81c6087f53b"
           ],
           "filename": "32052_snapshots_v1.jsonl",
-          "annotator": "A1SVV9UHWC9ENA",
           "corrected_values": null,
           "checks": 1
         },
@@ -13341,7 +13080,6 @@
             "e0cc229442d3469893cdf81c6087f53b"
           ],
           "filename": "32124_snapshots_v2.jsonl",
-          "annotator": "A1O5WYN0NN865K",
           "corrected_values": null,
           "checks": 1
         },
@@ -13359,7 +13097,6 @@
             "7743b72f7c3d40749363873307eef9c9"
           ],
           "filename": "32178_snapshots_v1.jsonl",
-          "annotator": "A10A7EZUXBD0II",
           "corrected_values": null,
           "checks": 1
         },
@@ -13373,7 +13110,6 @@
             "7743b72f7c3d40749363873307eef9c9"
           ],
           "filename": "32322_snapshots_v1.jsonl",
-          "annotator": "A1CMXVIAE9B3MU",
           "corrected_values": null,
           "checks": 1
         },
@@ -13387,7 +13123,6 @@
             "7743b72f7c3d40749363873307eef9c9"
           ],
           "filename": "32412_snapshots_v1.jsonl",
-          "annotator": "A11OEKPPEVCAQL",
           "corrected_values": null,
           "checks": 1
         }
@@ -13516,7 +13251,6 @@
             "1edaa01e4a684f99b080cffdd684e9aa"
           ],
           "filename": "32053_snapshots_v1.jsonl",
-          "annotator": "A1SVV9UHWC9ENA",
           "corrected_values": null,
           "checks": 0
         },
@@ -13540,7 +13274,6 @@
             "e7300eb50a4549fbacf3a07c6ca894c6"
           ],
           "filename": "32125_snapshots_v2.jsonl",
-          "annotator": "A1O5WYN0NN865K",
           "corrected_values": null,
           "checks": 3
         },
@@ -13583,7 +13316,6 @@
             "7743b72f7c3d40749363873307eef9c9"
           ],
           "filename": "32179_snapshots_v1.jsonl",
-          "annotator": "A10A7EZUXBD0II",
           "corrected_values": null,
           "checks": 5
         },
@@ -13597,7 +13329,6 @@
             "7743b72f7c3d40749363873307eef9c9"
           ],
           "filename": "32323_snapshots_v1.jsonl",
-          "annotator": "A1CMXVIAE9B3MU",
           "corrected_values": null,
           "checks": 1
         },
@@ -13611,7 +13342,6 @@
             "7743b72f7c3d40749363873307eef9c9"
           ],
           "filename": "32413_snapshots_v1.jsonl",
-          "annotator": "A11OEKPPEVCAQL",
           "corrected_values": null,
           "checks": 1
         }
@@ -13753,7 +13483,6 @@
             "60009bb5fef8452c9201cdd82b0b15cd"
           ],
           "filename": "32054_snapshots_v4.jsonl",
-          "annotator": "A3IHL3W22U6VZJ",
           "corrected_values": [
             "[None of above]",
             "chairs"
@@ -13779,7 +13508,6 @@
             "beb3568bb9034fc9bbc1a63e63c45ad4"
           ],
           "filename": "32090_snapshots_v2.jsonl",
-          "annotator": "A37XBH865833FE",
           "corrected_values": [
             "[None of above]",
             "chairs"
@@ -13819,7 +13547,6 @@
             "123fc12f2d1d4c3ab9b41db86d3df71a"
           ],
           "filename": "32198_snapshots_v1.jsonl",
-          "annotator": "A5H85F1CEARPA",
           "corrected_values": [
             "walk outside",
             "pool"
@@ -13850,7 +13577,6 @@
             "6e2a94028a5b422e80ee3361974d598d"
           ],
           "filename": "32324_snapshots_v1.jsonl",
-          "annotator": "A26PZQAKSJGCIQ",
           "corrected_values": [
             "walk outside",
             "chairs"
@@ -13874,7 +13600,6 @@
             "eca64f51a1ea43619f0b623c2095964c"
           ],
           "filename": "32414_snapshots_v2.jsonl",
-          "annotator": "ANZBO8QBL5XIU",
           "corrected_values": [
             "walk outside",
             "chairs"
@@ -14019,7 +13744,6 @@
             "a59713eed44e47cca397462601c4d960"
           ],
           "filename": "32055_snapshots_v4.jsonl",
-          "annotator": "A3IHL3W22U6VZJ",
           "corrected_values": [],
           "checks": 1
         },
@@ -14055,7 +13779,6 @@
             "a59713eed44e47cca397462601c4d960"
           ],
           "filename": "32091_snapshots_v2.jsonl",
-          "annotator": "A37XBH865833FE",
           "corrected_values": [],
           "checks": 4
         },
@@ -14077,7 +13800,6 @@
             "0b2466cdbed84bdaa8524a4eb90669d7"
           ],
           "filename": "32199_snapshots_v1.jsonl",
-          "annotator": "A5H85F1CEARPA",
           "corrected_values": [],
           "checks": 1
         },
@@ -14145,7 +13867,6 @@
             "a59713eed44e47cca397462601c4d960"
           ],
           "filename": "32325_snapshots_v1.jsonl",
-          "annotator": "A26PZQAKSJGCIQ",
           "corrected_values": [],
           "checks": 10
         },
@@ -14178,7 +13899,6 @@
             "a59713eed44e47cca397462601c4d960"
           ],
           "filename": "32415_snapshots_v2.jsonl",
-          "annotator": "ANZBO8QBL5XIU",
           "corrected_values": [],
           "checks": 1
         }
@@ -14342,7 +14062,6 @@
             "d950fc211fc745d9a8e2080f6ce747d2"
           ],
           "filename": "32056_snapshots_v4.jsonl",
-          "annotator": "A3IHL3W22U6VZJ",
           "corrected_values": [
             "[None of above]",
             "[None of above]",
@@ -14365,7 +14084,6 @@
             "f41c2851f4b241fcad3f8f15378da53b"
           ],
           "filename": "32092_snapshots_v2.jsonl",
-          "annotator": "A37XBH865833FE",
           "corrected_values": [
             "[DELETED]",
             "[DELETED]",
@@ -14392,7 +14110,6 @@
             "dddeccce9b044629a9ffd5c61e8ea1cf"
           ],
           "filename": "32200_snapshots_v1.jsonl",
-          "annotator": "A5H85F1CEARPA",
           "corrected_values": [
             "walk through the open door",
             "and turn left .",
@@ -14420,7 +14137,6 @@
             "4ed50a2f86384de599f06df862d17b10"
           ],
           "filename": "32326_snapshots_v1.jsonl",
-          "annotator": "A26PZQAKSJGCIQ",
           "corrected_values": [
             "walk through the open door",
             "and turn left .",
@@ -14500,7 +14216,6 @@
             "d6fc111b6fad4cd0813e2cf3706c3945"
           ],
           "filename": "32416_snapshots_v2.jsonl",
-          "annotator": "ANZBO8QBL5XIU",
           "corrected_values": [
             "walk through the open door",
             "and turn left .",
@@ -14647,7 +14362,6 @@
             "78ad6e43879c433ea88417b72e61c80f"
           ],
           "filename": "32057_snapshots_v4.jsonl",
-          "annotator": "A3IHL3W22U6VZJ",
           "corrected_values": [
             "hallway",
             "lobby"
@@ -14672,7 +14386,6 @@
             "78ad6e43879c433ea88417b72e61c80f"
           ],
           "filename": "32093_snapshots_v2.jsonl",
-          "annotator": "A37XBH865833FE",
           "corrected_values": [
             "door",
             "room"
@@ -14692,7 +14405,6 @@
             "9e7bb9838d0e443c89775617be087d76"
           ],
           "filename": "32201_snapshots_v1.jsonl",
-          "annotator": "A5H85F1CEARPA",
           "corrected_values": [
             "door",
             "room"
@@ -14711,7 +14423,6 @@
             "78ad6e43879c433ea88417b72e61c80f"
           ],
           "filename": "32327_snapshots_v2.jsonl",
-          "annotator": "A26PZQAKSJGCIQ",
           "corrected_values": [
             "hallway",
             "[None of above]"
@@ -14737,7 +14448,6 @@
             "78ad6e43879c433ea88417b72e61c80f"
           ],
           "filename": "32417_snapshots_v2.jsonl",
-          "annotator": "ANZBO8QBL5XIU",
           "corrected_values": [
             "hallway",
             "room"
@@ -14885,7 +14595,6 @@
             "3510eb416b7d4d779881abc5b5cf2cec"
           ],
           "filename": "32058_snapshots_v4.jsonl",
-          "annotator": "A3IHL3W22U6VZJ",
           "corrected_values": [
             "walk straight"
           ],
@@ -14926,7 +14635,6 @@
             "ec0421cc61c64f6f8692d327d6838fd5"
           ],
           "filename": "32094_snapshots_v2.jsonl",
-          "annotator": "A37XBH865833FE",
           "corrected_values": [
             "walk straight"
           ],
@@ -14947,7 +14655,6 @@
             "e3b1895ff0cb41b19be7fb13aa4e8d9a"
           ],
           "filename": "32202_snapshots_v1.jsonl",
-          "annotator": "A5H85F1CEARPA",
           "corrected_values": [
             "turn right"
           ],
@@ -14967,7 +14674,6 @@
             "bf22e389bd754181924923b4f5e0fe02"
           ],
           "filename": "32328_snapshots_v1.jsonl",
-          "annotator": "A26PZQAKSJGCIQ",
           "corrected_values": [
             "turn right"
           ],
@@ -15005,7 +14711,6 @@
             "e3b1895ff0cb41b19be7fb13aa4e8d9a"
           ],
           "filename": "32418_snapshots_v2.jsonl",
-          "annotator": "ANZBO8QBL5XIU",
           "corrected_values": [
             "turn right"
           ],
@@ -15168,7 +14873,6 @@
             "ed79b51efdac434cb12bcd3d5e7fd112"
           ],
           "filename": "32059_snapshots_v4.jsonl",
-          "annotator": "A3IHL3W22U6VZJ",
           "corrected_values": [
             "towards",
             "[None of above]",
@@ -15190,7 +14894,6 @@
             "ed79b51efdac434cb12bcd3d5e7fd112"
           ],
           "filename": "32095_snapshots_v2.jsonl",
-          "annotator": "A37XBH865833FE",
           "corrected_values": [
             "down",
             "third",
@@ -15230,7 +14933,6 @@
             "c23f26401359426982d11ca494ee739b"
           ],
           "filename": "32203_snapshots_v1.jsonl",
-          "annotator": "A5H85F1CEARPA",
           "corrected_values": [
             "down",
             "third",
@@ -15257,7 +14959,6 @@
             "ed79b51efdac434cb12bcd3d5e7fd112"
           ],
           "filename": "32329_snapshots_v1.jsonl",
-          "annotator": "A26PZQAKSJGCIQ",
           "corrected_values": [
             "down",
             "third",
@@ -15280,7 +14981,6 @@
             "ed79b51efdac434cb12bcd3d5e7fd112"
           ],
           "filename": "32419_snapshots_v2.jsonl",
-          "annotator": "ANZBO8QBL5XIU",
           "corrected_values": [
             "down",
             "third",
@@ -15439,7 +15139,6 @@
             "a62a0607fae3496d9018dc74a561be64"
           ],
           "filename": "32060_snapshots_v6.jsonl",
-          "annotator": "A8P9R18M6OX0Q",
           "corrected_values": [],
           "checks": 1
         },
@@ -15466,7 +15165,6 @@
             "2b4b62ead49b4f14a013f85816012a12"
           ],
           "filename": "32096_snapshots_v5.jsonl",
-          "annotator": "A2CLPXKA14RUTV",
           "corrected_values": [],
           "checks": 1
         },
@@ -15485,7 +15183,6 @@
             "4ad533e309ca4c61856c953afb7876b6"
           ],
           "filename": "32204_snapshots_v1.jsonl",
-          "annotator": "A2U7UDW9Y1WGWF",
           "corrected_values": [],
           "checks": 1
         },
@@ -15515,7 +15212,6 @@
             "2b4b62ead49b4f14a013f85816012a12"
           ],
           "filename": "32330_snapshots_v2.jsonl",
-          "annotator": "A2OH45B2ZDOYO1",
           "corrected_values": [],
           "checks": 1
         },
@@ -15539,7 +15235,6 @@
             "a62a0607fae3496d9018dc74a561be64"
           ],
           "filename": "32420_snapshots_v2.jsonl",
-          "annotator": "A2OVX9UW5WANQE",
           "corrected_values": [],
           "checks": 2
         }
@@ -15676,7 +15371,6 @@
             "7743b72f7c3d40749363873307eef9c9"
           ],
           "filename": "32061_snapshots_v6.jsonl",
-          "annotator": "A8P9R18M6OX0Q",
           "corrected_values": [],
           "checks": 1
         },
@@ -15690,7 +15384,6 @@
             "7743b72f7c3d40749363873307eef9c9"
           ],
           "filename": "32097_snapshots_v6.jsonl",
-          "annotator": "A2CLPXKA14RUTV",
           "corrected_values": [],
           "checks": 1
         },
@@ -15705,7 +15398,6 @@
             "7cd02069ac1546319b95be27fc04d7b5"
           ],
           "filename": "32205_snapshots_v1.jsonl",
-          "annotator": "A2U7UDW9Y1WGWF",
           "corrected_values": [],
           "checks": 1
         },
@@ -15719,7 +15411,6 @@
             "7743b72f7c3d40749363873307eef9c9"
           ],
           "filename": "32331_snapshots_v2.jsonl",
-          "annotator": "A2OH45B2ZDOYO1",
           "corrected_values": [],
           "checks": 1
         },
@@ -15734,7 +15425,6 @@
             "7cd02069ac1546319b95be27fc04d7b5"
           ],
           "filename": "32421_snapshots_v2.jsonl",
-          "annotator": "A2OVX9UW5WANQE",
           "corrected_values": [],
           "checks": 1
         }
@@ -15881,7 +15571,6 @@
             "de87e9646a654e1e8f4e96593a3adbc3"
           ],
           "filename": "32062_snapshots_v6.jsonl",
-          "annotator": "A8P9R18M6OX0Q",
           "corrected_values": [
             "door",
             "on the right"
@@ -15903,7 +15592,6 @@
             "d922a7a5956c4a42af51637f14c165d6"
           ],
           "filename": "32098_snapshots_v3.jsonl",
-          "annotator": "A2CLPXKA14RUTV",
           "corrected_values": [
             "divider",
             "on the right"
@@ -15929,7 +15617,6 @@
             "e5e1301c040f4617b2e9512bc4fb1c78"
           ],
           "filename": "32206_snapshots_v1.jsonl",
-          "annotator": "A2U7UDW9Y1WGWF",
           "corrected_values": [
             "door",
             "on the right"
@@ -15990,7 +15677,6 @@
             "d37a591311f6441d91550e219a58df24"
           ],
           "filename": "32332_snapshots_v2.jsonl",
-          "annotator": "A2OH45B2ZDOYO1",
           "corrected_values": [
             "[None of above]",
             "[None of above]"
@@ -16030,7 +15716,6 @@
             "4c36ad33c7b247b8892f703cd6327ab6"
           ],
           "filename": "32422_snapshots_v2.jsonl",
-          "annotator": "A2OVX9UW5WANQE",
           "corrected_values": [
             "[None of above]",
             "[None of above]"
@@ -16173,7 +15858,6 @@
             "d1de08c84e9e4f42a0acaeee738df23a"
           ],
           "filename": "32063_snapshots_v5.jsonl",
-          "annotator": "A8P9R18M6OX0Q",
           "corrected_values": [
             "turn left"
           ],
@@ -16194,7 +15878,6 @@
             "ca2cb94049944c7091641520209144d7"
           ],
           "filename": "32099_snapshots_v2.jsonl",
-          "annotator": "A2CLPXKA14RUTV",
           "corrected_values": [
             "turn left"
           ],
@@ -16249,7 +15932,6 @@
             "bf454a84e687425db55a946493d2ba72"
           ],
           "filename": "32207_snapshots_v1.jsonl",
-          "annotator": "A2U7UDW9Y1WGWF",
           "corrected_values": [
             "turn left"
           ],
@@ -16268,7 +15950,6 @@
             "d1de08c84e9e4f42a0acaeee738df23a"
           ],
           "filename": "32333_snapshots_v2.jsonl",
-          "annotator": "A2OH45B2ZDOYO1",
           "corrected_values": [
             "turn left"
           ],
@@ -16305,7 +15986,6 @@
             "bf454a84e687425db55a946493d2ba72"
           ],
           "filename": "32423_snapshots_v2.jsonl",
-          "annotator": "A2OVX9UW5WANQE",
           "corrected_values": [
             "turn left"
           ],
@@ -16473,7 +16153,6 @@
             "f61e709fdcf345c89bd8227f934df0ab"
           ],
           "filename": "32064_snapshots_v4.jsonl",
-          "annotator": "A8P9R18M6OX0Q",
           "corrected_values": [
             "walk down the stairs"
           ],
@@ -16496,7 +16175,6 @@
             "a7ab19b1a9f044f0905592de1414e8b3"
           ],
           "filename": "32100_snapshots_v2.jsonl",
-          "annotator": "A2CLPXKA14RUTV",
           "corrected_values": [
             "walk down the stairs"
           ],
@@ -16537,7 +16215,6 @@
             "b74fe16da1314290afeb10ce7ceae1c6"
           ],
           "filename": "32208_snapshots_v1.jsonl",
-          "annotator": "A2U7UDW9Y1WGWF",
           "corrected_values": [
             "[None of above]"
           ],
@@ -16573,7 +16250,6 @@
             "15a194390fdd47f9a0afd6753a0ba588"
           ],
           "filename": "32334_snapshots_v2.jsonl",
-          "annotator": "A2OH45B2ZDOYO1",
           "corrected_values": [
             "walk down the stairs"
           ],
@@ -16604,7 +16280,6 @@
             "a7ab19b1a9f044f0905592de1414e8b3"
           ],
           "filename": "32424_snapshots_v2.jsonl",
-          "annotator": "A2OVX9UW5WANQE",
           "corrected_values": [
             "walk down the stairs"
           ],
@@ -16753,7 +16428,6 @@
             "4b1bbb88b7e444a499ac7c261b4495c1"
           ],
           "filename": "32065_snapshots_v5.jsonl",
-          "annotator": "A8P9R18M6OX0Q",
           "corrected_values": [
             "bedroom"
           ],
@@ -16777,7 +16451,6 @@
             "ccabfad5dfcd47cd821e57a15a58d55c"
           ],
           "filename": "32101_snapshots_v2.jsonl",
-          "annotator": "A2CLPXKA14RUTV",
           "corrected_values": [
             "bedroom"
           ],
@@ -16812,7 +16485,6 @@
             "d0b8e8e2ffa645f39d418a32c6cfb695"
           ],
           "filename": "32209_snapshots_v1.jsonl",
-          "annotator": "A2U7UDW9Y1WGWF",
           "corrected_values": [
             "hallway"
           ],
@@ -16835,7 +16507,6 @@
             "ccabfad5dfcd47cd821e57a15a58d55c"
           ],
           "filename": "32335_snapshots_v2.jsonl",
-          "annotator": "A2OH45B2ZDOYO1",
           "corrected_values": [
             "bedroom"
           ],
@@ -16857,7 +16528,6 @@
             "ccabfad5dfcd47cd821e57a15a58d55c"
           ],
           "filename": "32425_snapshots_v2.jsonl",
-          "annotator": "A2OVX9UW5WANQE",
           "corrected_values": [
             "[None of above]"
           ],
@@ -17012,7 +16682,6 @@
             "7cd02069ac1546319b95be27fc04d7b5"
           ],
           "filename": "32066_snapshots_v1.jsonl",
-          "annotator": "AGG589R1OVUQP",
           "corrected_values": [
             "in the front"
           ],
@@ -17028,7 +16697,6 @@
             "7743b72f7c3d40749363873307eef9c9"
           ],
           "filename": "32102_snapshots_v1.jsonl",
-          "annotator": "A1JYLGFWGHZWTF",
           "corrected_values": [
             "on the left"
           ],
@@ -17044,7 +16712,6 @@
             "7743b72f7c3d40749363873307eef9c9"
           ],
           "filename": "32210_snapshots_v3.jsonl",
-          "annotator": "A3H3VJ97I647N4",
           "corrected_values": [
             "on the left"
           ],
@@ -17066,7 +16733,6 @@
             "20a224daa51e4890a3a954239da2f1c4"
           ],
           "filename": "32336_snapshots_v2.jsonl",
-          "annotator": "ATZS368LYHA5U",
           "corrected_values": [
             "in the front"
           ],
@@ -17108,7 +16774,6 @@
             "5125c4a0a99f45788e694d5a73ba99c7"
           ],
           "filename": "32426_snapshots_v1.jsonl",
-          "annotator": "AW5O1RK3W60FC",
           "corrected_values": [
             "straight ahead"
           ],
@@ -17262,7 +16927,6 @@
             "13c191f506114c73b70830b89e195aa6"
           ],
           "filename": "32067_snapshots_v1.jsonl",
-          "annotator": "AGG589R1OVUQP",
           "corrected_values": [
             "walk out of the bedroom",
             "and turn left ."
@@ -17285,7 +16949,6 @@
             "791d70f94a124a9e8013f173ce51ff08"
           ],
           "filename": "32103_snapshots_v1.jsonl",
-          "annotator": "A1JYLGFWGHZWTF",
           "corrected_values": [
             "walk out of the bedroom",
             "and turn left ."
@@ -17324,7 +16987,6 @@
             "13c191f506114c73b70830b89e195aa6"
           ],
           "filename": "32211_snapshots_v3.jsonl",
-          "annotator": "A3H3VJ97I647N4",
           "corrected_values": [
             "[DELETED]",
             "[DELETED]"
@@ -17348,7 +17010,6 @@
             "13c191f506114c73b70830b89e195aa6"
           ],
           "filename": "32337_snapshots_v2.jsonl",
-          "annotator": "ATZS368LYHA5U",
           "corrected_values": [
             "walk out of the bedroom",
             "and turn left ."
@@ -17385,7 +17046,6 @@
             "d52aaea9fc6e4d5fbecd0220eb9da436"
           ],
           "filename": "32427_snapshots_v1.jsonl",
-          "annotator": "AW5O1RK3W60FC",
           "corrected_values": [
             "[DELETED]",
             "[DELETED]"
@@ -17549,7 +17209,6 @@
             "871249bea9924fdba9937759ff5a22f4"
           ],
           "filename": "32068_snapshots_v1.jsonl",
-          "annotator": "AGG589R1OVUQP",
           "corrected_values": [
             "tv"
           ],
@@ -17572,7 +17231,6 @@
             "871249bea9924fdba9937759ff5a22f4"
           ],
           "filename": "32104_snapshots_v1.jsonl",
-          "annotator": "A1JYLGFWGHZWTF",
           "corrected_values": [
             "tv"
           ],
@@ -17594,7 +17252,6 @@
             "387707c22d4447f4b8ceff7a4ae26c46"
           ],
           "filename": "32212_snapshots_v3.jsonl",
-          "annotator": "A3H3VJ97I647N4",
           "corrected_values": [
             "bed"
           ],
@@ -17615,7 +17272,6 @@
             "4ab5217c7908473c807f873ebd3a5ff1"
           ],
           "filename": "32338_snapshots_v2.jsonl",
-          "annotator": "ATZS368LYHA5U",
           "corrected_values": [
             "tv"
           ],
@@ -17634,7 +17290,6 @@
             "387707c22d4447f4b8ceff7a4ae26c46"
           ],
           "filename": "32428_snapshots_v1.jsonl",
-          "annotator": "AW5O1RK3W60FC",
           "corrected_values": [
             "tv"
           ],
@@ -17896,7 +17551,6 @@
             "432b3b9f281243a1bed28ff4877bc7e7"
           ],
           "filename": "32069_snapshots_v1.jsonl",
-          "annotator": "AGG589R1OVUQP",
           "corrected_values": [
             "walk into the hallway",
             "and turn left .",
@@ -17935,7 +17589,6 @@
             "972a6c55f1fd40ff8f32fab7fe82f5e7"
           ],
           "filename": "32105_snapshots_v1.jsonl",
-          "annotator": "A1JYLGFWGHZWTF",
           "corrected_values": [
             "[None of above]",
             "[None of above]",
@@ -17985,7 +17638,6 @@
             "515d07d6153747d9b233ba0590ce439c"
           ],
           "filename": "32213_snapshots_v2.jsonl",
-          "annotator": "A3H3VJ97I647N4",
           "corrected_values": [
             "[DELETED]",
             "[DELETED]",
@@ -18008,7 +17660,6 @@
             "e428c761024a458e8b052494cf6249f5"
           ],
           "filename": "32339_snapshots_v2.jsonl",
-          "annotator": "ATZS368LYHA5U",
           "corrected_values": [
             "walk into the hallway",
             "and turn left .",
@@ -18089,7 +17740,6 @@
             "1cae8cb0d87e4c2694aabe3b9cecd0f9"
           ],
           "filename": "32429_snapshots_v1.jsonl",
-          "annotator": "AW5O1RK3W60FC",
           "corrected_values": [
             "[DELETED]",
             "[DELETED]",
@@ -18243,7 +17893,6 @@
             "515d07d6153747d9b233ba0590ce439c"
           ],
           "filename": "32070_snapshots_v1.jsonl",
-          "annotator": "AGG589R1OVUQP",
           "corrected_values": [
             "turn right",
             "and turn left .",
@@ -18266,7 +17915,6 @@
             "5923f6d03fd04d8e8c8d7a9ac4be821a"
           ],
           "filename": "32106_snapshots_v1.jsonl",
-          "annotator": "A1JYLGFWGHZWTF",
           "corrected_values": [
             "turn right",
             "and turn left .",
@@ -18285,7 +17933,6 @@
             "328ef7c3d2ed4da7a2e2af2f27735c10"
           ],
           "filename": "32214_snapshots_v2.jsonl",
-          "annotator": "A3H3VJ97I647N4",
           "corrected_values": [
             "turn right",
             "and turn left .",
@@ -18311,7 +17958,6 @@
             "328ef7c3d2ed4da7a2e2af2f27735c10"
           ],
           "filename": "32340_snapshots_v2.jsonl",
-          "annotator": "ATZS368LYHA5U",
           "corrected_values": [
             "turn left",
             "[None of above]",
@@ -18339,7 +17985,6 @@
             "e428c761024a458e8b052494cf6249f5"
           ],
           "filename": "32430_snapshots_v1.jsonl",
-          "annotator": "AW5O1RK3W60FC",
           "corrected_values": [
             "turn right",
             "and turn left .",
@@ -18520,7 +18165,6 @@
             "9114a9de6a67441b801696e2ba8a1003"
           ],
           "filename": "32071_snapshots_v1.jsonl",
-          "annotator": "AGG589R1OVUQP",
           "corrected_values": [
             "turn left",
             "turn right"
@@ -18545,7 +18189,6 @@
             "9114a9de6a67441b801696e2ba8a1003"
           ],
           "filename": "32107_snapshots_v1.jsonl",
-          "annotator": "A1JYLGFWGHZWTF",
           "corrected_values": [
             "turn right",
             "turn left"
@@ -18576,7 +18219,6 @@
             "c637b66b6f804617962f0f9e2f2c0341"
           ],
           "filename": "32215_snapshots_v2.jsonl",
-          "annotator": "A3H3VJ97I647N4",
           "corrected_values": [
             "[None of above]",
             "[None of above]"
@@ -18599,7 +18241,6 @@
             "83108d9e987b45c484362f5cda5b1bd1"
           ],
           "filename": "32341_snapshots_v2.jsonl",
-          "annotator": "ATZS368LYHA5U",
           "corrected_values": [
             "turn right",
             "turn left"
@@ -18619,7 +18260,6 @@
             "f106c5744f8e444d931ed9bdd12ee3aa"
           ],
           "filename": "32431_snapshots_v1.jsonl",
-          "annotator": "AW5O1RK3W60FC",
           "corrected_values": [
             "[None of above]",
             "[None of above]"
@@ -18766,7 +18406,6 @@
             "123fc12f2d1d4c3ab9b41db86d3df71a"
           ],
           "filename": "32216_snapshots_v2.jsonl",
-          "annotator": "A469GIT5XEDV2",
           "corrected_values": null,
           "checks": 9
         },
@@ -18786,7 +18425,6 @@
             "8c46244ce7fb468baeebd75d1fa9794f"
           ],
           "filename": "32234_snapshots_v1.jsonl",
-          "annotator": "AEFDIYXWG0I32",
           "corrected_values": null,
           "checks": 1
         },
@@ -18924,7 +18562,6 @@
             "9d9c29287e4849b99c4b3472163ecee2"
           ],
           "filename": "32252_snapshots_v3.jsonl",
-          "annotator": "A14CRT229B0G6I",
           "corrected_values": null,
           "checks": 29
         },
@@ -18947,7 +18584,6 @@
             "d1e94fa879f44a26bb9423819c2fd6da"
           ],
           "filename": "32342_snapshots_v1.jsonl",
-          "annotator": "A1MTGRF7RE2ZRL",
           "corrected_values": null,
           "checks": 4
         },
@@ -18975,7 +18611,6 @@
             "9d9c29287e4849b99c4b3472163ecee2"
           ],
           "filename": "32432_snapshots_v1.jsonl",
-          "annotator": "A217JHOEFHDXJ9",
           "corrected_values": null,
           "checks": 1
         }
@@ -19115,7 +18750,6 @@
             "9871b1fb068b495fa3e2ddac2f54cc16"
           ],
           "filename": "32217_snapshots_v2.jsonl",
-          "annotator": "A469GIT5XEDV2",
           "corrected_values": null,
           "checks": 1
         },
@@ -19134,7 +18768,6 @@
             "0fd8c430bdb34aedb5c11b56ceb13b63"
           ],
           "filename": "32235_snapshots_v1.jsonl",
-          "annotator": "AEFDIYXWG0I32",
           "corrected_values": null,
           "checks": 1
         },
@@ -19165,7 +18798,6 @@
             "a59713eed44e47cca397462601c4d960"
           ],
           "filename": "32253_snapshots_v3.jsonl",
-          "annotator": "A14CRT229B0G6I",
           "corrected_values": null,
           "checks": 1
         },
@@ -19201,7 +18833,6 @@
             "a59713eed44e47cca397462601c4d960"
           ],
           "filename": "32343_snapshots_v1.jsonl",
-          "annotator": "A1MTGRF7RE2ZRL",
           "corrected_values": null,
           "checks": 1
         },
@@ -19237,7 +18868,6 @@
             "a59713eed44e47cca397462601c4d960"
           ],
           "filename": "32433_snapshots_v1.jsonl",
-          "annotator": "A217JHOEFHDXJ9",
           "corrected_values": null,
           "checks": 1
         }
@@ -19410,7 +19040,6 @@
             "d6fc111b6fad4cd0813e2cf3706c3945"
           ],
           "filename": "32218_snapshots_v2.jsonl",
-          "annotator": "A469GIT5XEDV2",
           "corrected_values": null,
           "checks": 1
         },
@@ -19430,7 +19059,6 @@
             "d60f3399b4d24c21a494ed4430f27ce9"
           ],
           "filename": "32236_snapshots_v1.jsonl",
-          "annotator": "AEFDIYXWG0I32",
           "corrected_values": null,
           "checks": 1
         },
@@ -19506,7 +19134,6 @@
             "4ed50a2f86384de599f06df862d17b10"
           ],
           "filename": "32254_snapshots_v3.jsonl",
-          "annotator": "A14CRT229B0G6I",
           "corrected_values": null,
           "checks": 7
         },
@@ -19544,7 +19171,6 @@
             "f41c2851f4b241fcad3f8f15378da53b"
           ],
           "filename": "32344_snapshots_v1.jsonl",
-          "annotator": "A1MTGRF7RE2ZRL",
           "corrected_values": null,
           "checks": 8
         },
@@ -19578,7 +19204,6 @@
             "2b67ab047ee949538c9d5d89046d985f"
           ],
           "filename": "32434_snapshots_v1.jsonl",
-          "annotator": "A217JHOEFHDXJ9",
           "corrected_values": null,
           "checks": 1
         }
@@ -19723,7 +19348,6 @@
             "6ce4614650fd4294852d7fbeb89ef6be"
           ],
           "filename": "32219_snapshots_v2.jsonl",
-          "annotator": "A469GIT5XEDV2",
           "corrected_values": null,
           "checks": 3
         },
@@ -19739,7 +19363,6 @@
             "78ad6e43879c433ea88417b72e61c80f"
           ],
           "filename": "32237_snapshots_v1.jsonl",
-          "annotator": "AEFDIYXWG0I32",
           "corrected_values": null,
           "checks": 1
         },
@@ -19771,7 +19394,6 @@
             "099839b0911a409787e237301c90e418"
           ],
           "filename": "32255_snapshots_v3.jsonl",
-          "annotator": "A14CRT229B0G6I",
           "corrected_values": null,
           "checks": 1
         },
@@ -19788,7 +19410,6 @@
             "099839b0911a409787e237301c90e418"
           ],
           "filename": "32345_snapshots_v1.jsonl",
-          "annotator": "A1MTGRF7RE2ZRL",
           "corrected_values": null,
           "checks": 1
         },
@@ -19804,7 +19425,6 @@
             "78ad6e43879c433ea88417b72e61c80f"
           ],
           "filename": "32435_snapshots_v1.jsonl",
-          "annotator": "A217JHOEFHDXJ9",
           "corrected_values": null,
           "checks": 2
         }
@@ -19956,7 +19576,6 @@
             "673b43f1b9fe4a9e8202393028e180e8"
           ],
           "filename": "32220_snapshots_v2.jsonl",
-          "annotator": "A469GIT5XEDV2",
           "corrected_values": null,
           "checks": 1
         },
@@ -19973,7 +19592,6 @@
             "3510eb416b7d4d779881abc5b5cf2cec"
           ],
           "filename": "32238_snapshots_v1.jsonl",
-          "annotator": "AEFDIYXWG0I32",
           "corrected_values": null,
           "checks": 1
         },
@@ -20036,7 +19654,6 @@
             "ec0421cc61c64f6f8692d327d6838fd5"
           ],
           "filename": "32256_snapshots_v3.jsonl",
-          "annotator": "A14CRT229B0G6I",
           "corrected_values": null,
           "checks": 3
         },
@@ -20054,7 +19671,6 @@
             "bf22e389bd754181924923b4f5e0fe02"
           ],
           "filename": "32346_snapshots_v1.jsonl",
-          "annotator": "A1MTGRF7RE2ZRL",
           "corrected_values": null,
           "checks": 1
         },
@@ -20070,7 +19686,6 @@
             "b6985ed68dd8405e969fcbbcd6dfcc42"
           ],
           "filename": "32436_snapshots_v1.jsonl",
-          "annotator": "A217JHOEFHDXJ9",
           "corrected_values": null,
           "checks": 1
         }
@@ -20227,7 +19842,6 @@
             "82e8acfab99d4441ac4da5bf22c2642d"
           ],
           "filename": "32221_snapshots_v2.jsonl",
-          "annotator": "A469GIT5XEDV2",
           "corrected_values": null,
           "checks": 1
         },
@@ -20252,7 +19866,6 @@
             "ed79b51efdac434cb12bcd3d5e7fd112"
           ],
           "filename": "32239_snapshots_v1.jsonl",
-          "annotator": "AEFDIYXWG0I32",
           "corrected_values": null,
           "checks": 1
         },
@@ -20306,7 +19919,6 @@
             "ed79b51efdac434cb12bcd3d5e7fd112"
           ],
           "filename": "32257_snapshots_v3.jsonl",
-          "annotator": "A14CRT229B0G6I",
           "corrected_values": null,
           "checks": 4
         },
@@ -20329,7 +19941,6 @@
             "ed79b51efdac434cb12bcd3d5e7fd112"
           ],
           "filename": "32347_snapshots_v1.jsonl",
-          "annotator": "A1MTGRF7RE2ZRL",
           "corrected_values": null,
           "checks": 4
         },
@@ -20347,7 +19958,6 @@
             "ed79b51efdac434cb12bcd3d5e7fd112"
           ],
           "filename": "32437_snapshots_v1.jsonl",
-          "annotator": "A217JHOEFHDXJ9",
           "corrected_values": null,
           "checks": 1
         }
@@ -20538,7 +20148,6 @@
             "2b4b62ead49b4f14a013f85816012a12"
           ],
           "filename": "32222_snapshots_v2.jsonl",
-          "annotator": "AMDNG6FGS5JML",
           "corrected_values": null,
           "checks": 2
         },
@@ -20615,7 +20224,6 @@
             "2b4b62ead49b4f14a013f85816012a12"
           ],
           "filename": "32240_snapshots_v1.jsonl",
-          "annotator": "AAGENOEV955DM",
           "corrected_values": null,
           "checks": 5
         },
@@ -20637,7 +20245,6 @@
             "a62a0607fae3496d9018dc74a561be64"
           ],
           "filename": "32258_snapshots_v1.jsonl",
-          "annotator": "A3HFB277V5OXY0",
           "corrected_values": null,
           "checks": 1
         },
@@ -20715,7 +20322,6 @@
             "a62a0607fae3496d9018dc74a561be64"
           ],
           "filename": "32348_snapshots_v1.jsonl",
-          "annotator": "A2MV1R6YYOIO30",
           "corrected_values": null,
           "checks": 5
         },
@@ -20738,7 +20344,6 @@
             "4ad533e309ca4c61856c953afb7876b6"
           ],
           "filename": "32438_snapshots_v4.jsonl",
-          "annotator": "A223SWQCS1ME7Z",
           "corrected_values": null,
           "checks": 1
         }
@@ -20876,7 +20481,6 @@
             "7cd02069ac1546319b95be27fc04d7b5"
           ],
           "filename": "32223_snapshots_v2.jsonl",
-          "annotator": "AMDNG6FGS5JML",
           "corrected_values": null,
           "checks": 1
         },
@@ -20892,7 +20496,6 @@
             "7743b72f7c3d40749363873307eef9c9"
           ],
           "filename": "32241_snapshots_v1.jsonl",
-          "annotator": "AAGENOEV955DM",
           "corrected_values": null,
           "checks": 1
         },
@@ -20906,7 +20509,6 @@
             "7743b72f7c3d40749363873307eef9c9"
           ],
           "filename": "32259_snapshots_v1.jsonl",
-          "annotator": "A3HFB277V5OXY0",
           "corrected_values": null,
           "checks": 1
         },
@@ -20922,7 +20524,6 @@
             "5125c4a0a99f45788e694d5a73ba99c7"
           ],
           "filename": "32349_snapshots_v1.jsonl",
-          "annotator": "A2MV1R6YYOIO30",
           "corrected_values": null,
           "checks": 1
         },
@@ -20937,7 +20538,6 @@
             "7cd02069ac1546319b95be27fc04d7b5"
           ],
           "filename": "32439_snapshots_v3.jsonl",
-          "annotator": "A223SWQCS1ME7Z",
           "corrected_values": null,
           "checks": 1
         }
@@ -21320,7 +20920,6 @@
             "74b06bb5be1945f99ceacd2687aaa74f"
           ],
           "filename": "32224_snapshots_v2.jsonl",
-          "annotator": null,
           "corrected_values": null,
           "checks": null
         },
@@ -21375,7 +20974,6 @@
             "de87e9646a654e1e8f4e96593a3adbc3"
           ],
           "filename": "32224_snapshots_v4.jsonl",
-          "annotator": "A14CRT229B0G6I",
           "corrected_values": null,
           "checks": 4
         },
@@ -21452,7 +21050,6 @@
             "de87e9646a654e1e8f4e96593a3adbc3"
           ],
           "filename": "32242_snapshots_v1.jsonl",
-          "annotator": "AAGENOEV955DM",
           "corrected_values": null,
           "checks": 3
         },
@@ -21523,7 +21120,6 @@
             "d922a7a5956c4a42af51637f14c165d6"
           ],
           "filename": "32260_snapshots_v1.jsonl",
-          "annotator": "A3HFB277V5OXY0",
           "corrected_values": null,
           "checks": 9
         },
@@ -21583,7 +21179,6 @@
             "de87e9646a654e1e8f4e96593a3adbc3"
           ],
           "filename": "32350_snapshots_v1.jsonl",
-          "annotator": "A2MV1R6YYOIO30",
           "corrected_values": null,
           "checks": 9
         },
@@ -21604,7 +21199,6 @@
             "de87e9646a654e1e8f4e96593a3adbc3"
           ],
           "filename": "32440_snapshots_v3.jsonl",
-          "annotator": "A223SWQCS1ME7Z",
           "corrected_values": null,
           "checks": 3
         }
@@ -21745,7 +21339,6 @@
             "bf454a84e687425db55a946493d2ba72"
           ],
           "filename": "32225_snapshots_v2.jsonl",
-          "annotator": "AMDNG6FGS5JML",
           "corrected_values": null,
           "checks": 1
         },
@@ -21763,7 +21356,6 @@
             "d5183baffb764292a1ce414243f30ef6"
           ],
           "filename": "32243_snapshots_v1.jsonl",
-          "annotator": "AAGENOEV955DM",
           "corrected_values": null,
           "checks": 1
         },
@@ -21781,7 +21373,6 @@
             "d1de08c84e9e4f42a0acaeee738df23a"
           ],
           "filename": "32261_snapshots_v1.jsonl",
-          "annotator": "A3HFB277V5OXY0",
           "corrected_values": null,
           "checks": 2
         },
@@ -21840,7 +21431,6 @@
             "bf454a84e687425db55a946493d2ba72"
           ],
           "filename": "32351_snapshots_v1.jsonl",
-          "annotator": "A2MV1R6YYOIO30",
           "corrected_values": null,
           "checks": 5
         },
@@ -21857,7 +21447,6 @@
             "99dc41ba4676449d8fc37890a38ad9e3"
           ],
           "filename": "32441_snapshots_v3.jsonl",
-          "annotator": "A223SWQCS1ME7Z",
           "corrected_values": null,
           "checks": 1
         }
@@ -22039,7 +21628,6 @@
             "6a99c723d40b429e96a29c8ce7532d1d"
           ],
           "filename": "32226_snapshots_v2.jsonl",
-          "annotator": "AMDNG6FGS5JML",
           "corrected_values": null,
           "checks": 3
         },
@@ -22157,7 +21745,6 @@
             "6a99c723d40b429e96a29c8ce7532d1d"
           ],
           "filename": "32244_snapshots_v1.jsonl",
-          "annotator": "AAGENOEV955DM",
           "corrected_values": null,
           "checks": 8
         },
@@ -22189,7 +21776,6 @@
             "45a4210a4c224ae5be8b8ce77e6c90a7"
           ],
           "filename": "32262_snapshots_v1.jsonl",
-          "annotator": "A3HFB277V5OXY0",
           "corrected_values": null,
           "checks": 16
         },
@@ -22210,7 +21796,6 @@
             "6a99c723d40b429e96a29c8ce7532d1d"
           ],
           "filename": "32352_snapshots_v1.jsonl",
-          "annotator": "A2MV1R6YYOIO30",
           "corrected_values": null,
           "checks": 1
         },
@@ -22226,7 +21811,6 @@
             "15a194390fdd47f9a0afd6753a0ba588"
           ],
           "filename": "32442_snapshots_v2.jsonl",
-          "annotator": "A223SWQCS1ME7Z",
           "corrected_values": null,
           "checks": 1
         }
@@ -22438,7 +22022,6 @@
             "f106c5744f8e444d931ed9bdd12ee3aa"
           ],
           "filename": "32227_snapshots_v2.jsonl",
-          "annotator": "AMDNG6FGS5JML",
           "corrected_values": null,
           "checks": 10
         },
@@ -22476,7 +22059,6 @@
             "ccabfad5dfcd47cd821e57a15a58d55c"
           ],
           "filename": "32245_snapshots_v1.jsonl",
-          "annotator": "AAGENOEV955DM",
           "corrected_values": null,
           "checks": 12
         },
@@ -22544,7 +22126,6 @@
             "85b4d3014af0457e9bb0827ea6e18925"
           ],
           "filename": "32263_snapshots_v1.jsonl",
-          "annotator": "A3HFB277V5OXY0",
           "corrected_values": null,
           "checks": 12
         },
@@ -22569,7 +22150,6 @@
             "f106c5744f8e444d931ed9bdd12ee3aa"
           ],
           "filename": "32353_snapshots_v1.jsonl",
-          "annotator": "A2MV1R6YYOIO30",
           "corrected_values": null,
           "checks": 2
         },
@@ -22595,7 +22175,6 @@
             "f106c5744f8e444d931ed9bdd12ee3aa"
           ],
           "filename": "32443_snapshots_v4.jsonl",
-          "annotator": "A223SWQCS1ME7Z",
           "corrected_values": null,
           "checks": 2
         }
@@ -22764,7 +22343,6 @@
             "7cd02069ac1546319b95be27fc04d7b5"
           ],
           "filename": "32228_snapshots_v2.jsonl",
-          "annotator": "A237ZWM1KMLABS",
           "corrected_values": null,
           "checks": 5
         },
@@ -22785,7 +22363,6 @@
             "7cd02069ac1546319b95be27fc04d7b5"
           ],
           "filename": "32246_snapshots_v1.jsonl",
-          "annotator": "ATOZT45QBUPY8",
           "corrected_values": null,
           "checks": 2
         },
@@ -22809,7 +22386,6 @@
             "1edaa01e4a684f99b080cffdd684e9aa"
           ],
           "filename": "32264_snapshots_v1.jsonl",
-          "annotator": "AX92KY5G8AGCL",
           "corrected_values": null,
           "checks": 1
         },
@@ -22860,7 +22436,6 @@
             "7cd02069ac1546319b95be27fc04d7b5"
           ],
           "filename": "32354_snapshots_v1.jsonl",
-          "annotator": "AGB6853RIDWJ8",
           "corrected_values": null,
           "checks": 9
         },
@@ -22874,7 +22449,6 @@
             "7743b72f7c3d40749363873307eef9c9"
           ],
           "filename": "32444_snapshots_v2.jsonl",
-          "annotator": "A1B1OADBQ786KJ",
           "corrected_values": null,
           "checks": 1
         }
@@ -23037,7 +22611,6 @@
             "13c191f506114c73b70830b89e195aa6"
           ],
           "filename": "32229_snapshots_v2.jsonl",
-          "annotator": "A237ZWM1KMLABS",
           "corrected_values": null,
           "checks": 1
         },
@@ -23059,7 +22632,6 @@
             "13c191f506114c73b70830b89e195aa6"
           ],
           "filename": "32247_snapshots_v1.jsonl",
-          "annotator": "ATOZT45QBUPY8",
           "corrected_values": null,
           "checks": 1
         },
@@ -23090,7 +22662,6 @@
             "6142140dfac2471b881ce5f083f427eb"
           ],
           "filename": "32265_snapshots_v1.jsonl",
-          "annotator": "AX92KY5G8AGCL",
           "corrected_values": null,
           "checks": 1
         },
@@ -23190,7 +22761,6 @@
             "13c191f506114c73b70830b89e195aa6"
           ],
           "filename": "32355_snapshots_v1.jsonl",
-          "annotator": "AGB6853RIDWJ8",
           "corrected_values": null,
           "checks": 6
         },
@@ -23209,7 +22779,6 @@
             "13c191f506114c73b70830b89e195aa6"
           ],
           "filename": "32445_snapshots_v1.jsonl",
-          "annotator": "A1B1OADBQ786KJ",
           "corrected_values": null,
           "checks": 1
         }
@@ -23345,7 +22914,6 @@
             "387707c22d4447f4b8ceff7a4ae26c46"
           ],
           "filename": "32230_snapshots_v2.jsonl",
-          "annotator": "A237ZWM1KMLABS",
           "corrected_values": null,
           "checks": 3
         },
@@ -23366,7 +22934,6 @@
             "871249bea9924fdba9937759ff5a22f4"
           ],
           "filename": "32248_snapshots_v1.jsonl",
-          "annotator": "ATOZT45QBUPY8",
           "corrected_values": null,
           "checks": 2
         },
@@ -23386,7 +22953,6 @@
             "7f20a42d67cf458cbe11070f02568da1"
           ],
           "filename": "32266_snapshots_v1.jsonl",
-          "annotator": "AX92KY5G8AGCL",
           "corrected_values": null,
           "checks": 1
         },
@@ -23410,7 +22976,6 @@
             "387707c22d4447f4b8ceff7a4ae26c46"
           ],
           "filename": "32356_snapshots_v1.jsonl",
-          "annotator": "AGB6853RIDWJ8",
           "corrected_values": null,
           "checks": 2
         },
@@ -23428,7 +22993,6 @@
             "871249bea9924fdba9937759ff5a22f4"
           ],
           "filename": "32446_snapshots_v1.jsonl",
-          "annotator": "A1B1OADBQ786KJ",
           "corrected_values": null,
           "checks": 1
         }
@@ -23621,7 +23185,6 @@
             "c8d856118813486e9c9b263afb5b38a7"
           ],
           "filename": "32231_snapshots_v1.jsonl",
-          "annotator": "A237ZWM1KMLABS",
           "corrected_values": null,
           "checks": 10
         },
@@ -23640,7 +23203,6 @@
             "e428c761024a458e8b052494cf6249f5"
           ],
           "filename": "32249_snapshots_v1.jsonl",
-          "annotator": "ATOZT45QBUPY8",
           "corrected_values": null,
           "checks": 1
         },
@@ -23694,7 +23256,6 @@
             "22c3cd83edaa4600b770a340a7ffc7d0"
           ],
           "filename": "32267_snapshots_v1.jsonl",
-          "annotator": "AX92KY5G8AGCL",
           "corrected_values": null,
           "checks": 0
         },
@@ -23914,7 +23475,6 @@
             "328ef7c3d2ed4da7a2e2af2f27735c10"
           ],
           "filename": "32357_snapshots_v1.jsonl",
-          "annotator": "AGB6853RIDWJ8",
           "corrected_values": null,
           "checks": 16
         },
@@ -23933,7 +23493,6 @@
             "b2f2e0367c764b9b8b236ff6fe73f19c"
           ],
           "filename": "32447_snapshots_v1.jsonl",
-          "annotator": "A1B1OADBQ786KJ",
           "corrected_values": null,
           "checks": 1
         }
@@ -24089,7 +23648,6 @@
             "328ef7c3d2ed4da7a2e2af2f27735c10"
           ],
           "filename": "32232_snapshots_v1.jsonl",
-          "annotator": "A237ZWM1KMLABS",
           "corrected_values": null,
           "checks": 2
         },
@@ -24105,7 +23663,6 @@
             "328ef7c3d2ed4da7a2e2af2f27735c10"
           ],
           "filename": "32250_snapshots_v1.jsonl",
-          "annotator": "ATOZT45QBUPY8",
           "corrected_values": null,
           "checks": 1
         },
@@ -24124,7 +23681,6 @@
             "e428c761024a458e8b052494cf6249f5"
           ],
           "filename": "32268_snapshots_v1.jsonl",
-          "annotator": "AX92KY5G8AGCL",
           "corrected_values": null,
           "checks": 2
         },
@@ -24159,7 +23715,6 @@
             "328ef7c3d2ed4da7a2e2af2f27735c10"
           ],
           "filename": "32358_snapshots_v1.jsonl",
-          "annotator": "AGB6853RIDWJ8",
           "corrected_values": null,
           "checks": 4
         },
@@ -24175,7 +23730,6 @@
             "328ef7c3d2ed4da7a2e2af2f27735c10"
           ],
           "filename": "32448_snapshots_v1.jsonl",
-          "annotator": "A1B1OADBQ786KJ",
           "corrected_values": null,
           "checks": 1
         }
@@ -24345,7 +23899,6 @@
             "9231543c6c484c939a501338ad8c1db4"
           ],
           "filename": "32233_snapshots_v1.jsonl",
-          "annotator": "A237ZWM1KMLABS",
           "corrected_values": null,
           "checks": 7
         },
@@ -24365,7 +23918,6 @@
             "13a8c23dab5b473fa8d449a126b949be"
           ],
           "filename": "32251_snapshots_v1.jsonl",
-          "annotator": "ATOZT45QBUPY8",
           "corrected_values": null,
           "checks": 1
         },
@@ -24398,7 +23950,6 @@
             "43a3580a4000475daccb96247de571f7"
           ],
           "filename": "32269_snapshots_v1.jsonl",
-          "annotator": "AX92KY5G8AGCL",
           "corrected_values": null,
           "checks": 5
         },
@@ -24460,7 +24011,6 @@
             "778fcb7553fe4322a49ddc62554ce081"
           ],
           "filename": "32359_snapshots_v1.jsonl",
-          "annotator": "AGB6853RIDWJ8",
           "corrected_values": null,
           "checks": 10
         },
@@ -24477,7 +24027,6 @@
             "a7a41dd2adbf4a69a12d49254f8a14e5"
           ],
           "filename": "32449_snapshots_v1.jsonl",
-          "annotator": "A1B1OADBQ786KJ",
           "corrected_values": null,
           "checks": 1
         }
