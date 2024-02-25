@@ -38,12 +38,7 @@ Use the bash script to train the hallucination type classifier:
 run/train_hallucination_type_parallel.sh
 ```
 
-The above scripts will generate folders in `data/runs/` containing model checkpoints. 
-
-To interact with a trained world model, run:
-```
-bash scripts/play_wm.sh ${MODEL_NAME}
-```
+The above scripts will generate folders in `data/runs/` containing model checkpoints.
 
 ## 🤖 Decoding the HEAR Model
 
@@ -67,7 +62,11 @@ Merge the two-stage outputs using the following python script:
 utils/process_alternative_output.py
 ```
 
-The output would be saved as TODO.
+The output would be saved as:
+
+```
+data/runs/run-test_hallucination_detection/_sigmoid_scores_t5_val_seen_highlighted_phrase_alters_gpt4_direction_dev_test_merged.json
+```
 
 
 ## 📊 Human Evaluation Interface
