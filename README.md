@@ -40,7 +40,7 @@ run/train_hallucination_type_parallel.sh
 
 The above scripts will generate folders in `data/runs/` containing model checkpoints.
 
-If you want to used pretrained models instead, you can download the pretrained checkpoints from [this link](https://drive.google.com/file/d/1zSI2VNmq_XpZ9yGBEFqyd8I2CJ25Svff/view?usp=sharing),
+If you want to use pretrained models instead, you can download the pretrained checkpoints from [this link](https://drive.google.com/file/d/1zSI2VNmq_XpZ9yGBEFqyd8I2CJ25Svff/view?usp=sharing),
 and put them under `data/runs/` folder after unzipping.
 
 
